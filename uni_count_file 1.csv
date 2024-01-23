@@ -59,7 +59,6 @@ Bogomolets National Medical University,23
 Lutsk National Technical University,23
 Vasyl Stefanyk Precarpathian National University,23
 National Metallurgical Academy of Ukraine,22
-false  'Igor Sikorsky Kyiv Polytechnic Institute',22
 National Scientific Center,22
 Sumy National Agrarian University,21
 Volodymyr Dahl East Ukrainian National University,21
@@ -134,7 +133,6 @@ Space Research Institute,12
 Research Institute for Intelligent Computer Systems,12
 Institute of Molecular Biology and Genetics,12
 Donetsk National University,12
-false  KhAI,12
 State University of Trade and Economics,12
 International Research and Training Center for Information Technologies and Systems,12
 Department of Software Engineering,12
@@ -155,7 +153,6 @@ Bogomoletz Institute of Physiology,10
 Ukrainian State University of Chemical Technology,10
 Doctor of Technical Sciences,10
 Institute for Information Recording,10
-Astronomical Observatory of false ,10
 Optics and Publishing Department,10
 S. P. Timoshenko Institute of Mechanics,10
 Karpenko Physico-Mechanical Institute,10
@@ -174,7 +171,6 @@ Department of Transmitters,9
 Institute of Organic Chemistry,9
 National University,9
 Academy of Cognitive and Natural Sciences,9
-false  Igor Sikorsky Kyiv Polytechnic Institute,9
 Institute of Software Systems of National Academy of Sciences of Ukraine,9
 Department of Space Information Technologies and Systems,9
 Zaporizhzhya National University,9
@@ -187,14 +183,11 @@ National Science Centre,8
 Karazin Kharkiv National University,8
 Department of Information Systems and Technologies,8
 Faculty of Computer Science and Cybernetics,8
-false  'Kharkiv Aviation Institute',8
-"false  ""Igor Sikorsky Kyiv Polytechnic Institute""",8
 Timoshenko Institute of Mechanics,8
 Oles Honchar Dnipropetrovsk National University,8
 Schmalhausen Institute of Zoology,8
 Donbass State Engineering Academy,8
 Admiral Makarov National University of Shipbuilding,8
-"false  ""Kharkiv Aviation Institute""",8
 Department of Media Systems and Technologies,8
 Department of Mathematics,8
 Department of Information Systems and Networks,8
@@ -250,9 +243,7 @@ Faculty of Cybernetics,6
 Odesa Polytechnic National University,6
 Central Ukrainian National Technical University,6
 It-Jim,6
-false  " Kharkiv Aviation Institute,6
 Institute for Digitalisation of Education of the NAES of Ukraine,6
-Institute for Applied System Analysis of the false  "Igor Sikorsky Kyiv Polytechnic Institute",6
 National Amosov Institute of Cardiovascular Surgery of the National Academy of Medical Sciences of Ukraine,6
 V. N. Karazin,6
 EOS Data Analytics Ukraine,6
@@ -309,7 +300,6 @@ Institute for Problems of Materials Science of NAS of Ukraine,5
 Department of Accounting and Taxation,5
 Institute of Physics and Technology,5
 Department of Space Information Technologies and System,5
-Astronomical Observatory of false ,5
 G.E. Pukhov Institute for Modelling in Energy Engineering,5
 University of Educational Management,5
 Berdyansk State Pedagogical University,5
@@ -327,8 +317,6 @@ Franko Lviv National University,5
 Department of Management and International Business,5
 State Organization "Grigoriev Institute for Medical Radiology and Oncology of the National Academy of Medical Sciences of Ukraine",5
 Department of Metal Physics,5
-"false  ""KhPI""",5
-,5
 Department of Mining Engineering and Education,5
 Kharkiv State Academy of Physical Culture,5
 Department of Information Systems,5
@@ -355,7 +343,6 @@ O.S. Popov Odessa National Academy of Telecommunications,5
 Vasyl" Stus Donetsk National University,5
 Faculty of Radiophysics,5
 Odessa I. I. Mechnikov National University,5
-false  (Kharkiv Aviation Institute),5
 National Academy of the Security Service of Ukraine,5
 Taras Shevchenko Kyiv National University,5
 Military-Diplomatic Academy named after Eugene Bereznyak,5
@@ -372,7 +359,6 @@ Institute of Information Technologies,5
 Bakul Institute for Superhard Materials,5
 State University for Transport Economy and Technologies,5
 Institute of Information Technologies and Learning Tools of NAES of Ukraine,5
-Flight Academy of the false ,5
 RPE 'Geoprom',5
 Department of Artificial Intelligence Systems,5
 State Institution of Science "Research and Practical Center of Preventive and Clinical Medicine" State Administrative Department,5
@@ -401,17 +387,14 @@ Department of Business Economy and Information Technology,4
 Research Department of Electronic Warfare Development,4
 Western Center of Radiotechnical Surveillance,4
 Department of Molecular and Quantum Biophysics,4
-false  Kharkiv Polytechnic Institute,4
 Poltava State Medical University,4
 National University of Life and Environmental Sciences,4
 State Institution "Institute of Technical Problems of Magnetism of the National Academy of Sciences of Ukraine",4
 State Key Laboratory of Molecular and Cellular Biology,4
 Department of Ecology,4
 Institute of Space Research,4
-false  KPI,4
 Medical Institute,4
 National Academy of the National Guard of Ukraine,4
-false  "Kharkiv Polytechnic Institute",4
 Institute of Geotechnical Mechanics Named by N. Poljakov of National Academy of Sciences of Ukraine,4
 Software Tools Department,4
 Zaporizhzhia National Technical University,4
@@ -434,10 +417,8 @@ Glushkov Institute of Cybernetics of NAS of Ukraine,4
 Donbass State Technical University,4
 National University "Odessa Maritime Academy",4
 Department of Computer Engineering and Programming,4
-false  'Khpi',4
 Department of Computer Technologies,4
 Dnipro State Medical University,4
-false  "Igor Sikorsky Kyiv Polytechnic Institute",4
 Department of Intelligent Information Systems,4
 Ivano-Frankovsk National Technical University of Oil and Gas,4
 Management and Marketing Center of IGS of NAS of Ukraine,4
@@ -460,26 +441,20 @@ Department of Medical and Biological Researches,4
 V.M. Glushkov Institute of Cybernetics of the NAS of Ukraine,4
 International Research and Training Center of Informational Technologies and Systems,4
 Faculty of Applied Mathematics,4
-false  "KhAI",4
 O. Gonchar Dnepropetrovsk National University,4
 Odessa National Medical University,4
-"false  ""kharkiv Aviation Institute""",4
 Institute for Radiophysics and Electronics,4
-"false  ""Kharkiv Polytechnic Institute""",4
 R.E. Kavetsky Institute of Experimental Pathology,4
 Vinnytsa National Technical University,4
 EOS Data Analytics,4
-false  Kyiv Polytechnic Institute,4
 Department of International Economic Relations,4
 Institute of Computer Sciences and Information Technologies,4
 Pereiaslav-Khmelnytskyi Hryhorii Skovoroda State Pedagogical University,4
 E. O. Paton Electric Welding Institute,4
 Yuzhnoye State Design Office,4
-false ,4
 IT STEP University,4
 Shupyk National Medical Academy of Postgraduate Education,4
 Polissia National University,4
-false  'Igor Sikorsky Kiev Polytechnic Institute',4
 Automated Control Systems Department,4
 Department of Management and Administration,4
 Department of Theoretical Cybernetics,4
@@ -582,7 +557,6 @@ Department of Intelligent Real Time Video Systems,3
 Department of Entrepreneurship and Business Administration,3
 Odesa National Polytechnic University,3
 Odesa National Medical University,3
-Educational and Research Institute for Applied System Analysis of the false  "Igor Sikorsky Kyiv Polytechnic Institute",3
 Department of Project Management,3
 Department of Surgery,3
 Information Technologies Department,3
@@ -637,7 +611,6 @@ Dep. of Non-Destructive Testing Devices and Systems,3
 Institute for Information Recording of the National Academy of Sciences of Ukraine,3
 National Academy of Legal Sciences of Ukraine,3
 Karpenko Physico-Mechanical Institute of the NAS,3
-false  "KhPI",3
 Maritime Institute of Postgraduate Education,3
 Department of Public Management and Administration,3
 O.Ya. Usikov Institute for Radiophysics and Electronics,3
@@ -659,10 +632,8 @@ Department of Obstetrics,3
 Department of Law,3
 G.V.Kurdyumov Institute for Metal Physics,3
 Institute of Geography,3
-false  'KhAI',3
 Central Scientific and Research Institute of the Armed Forces of Ukraine,3
 Institute of Electrophysics and Radiation Technologies,3
-false  - KhAI,3
 Department of Information Technology and Information Security,3
 KHARKIV NATIONAL MEDICAL UNIVERSITY,3
 Institute of Computer Systems,3
@@ -681,7 +652,6 @@ International Research and Training Center of Information Technologies and Syste
 Odesa National Maritime University,3
 Dept. of Software Tools,3
 Pulyui Ternopil National Technical University,3
-Flight Academy of false ,3
 Foreign Languages Department,3
 Department of Metrology and Technical Expertise,3
 Lviv Polytechnik National University,3
@@ -706,7 +676,6 @@ Institute for Applied System Analysis Igor Sikorsky Kyiv Polytechnic Institute,3
 Department of General Physiology of Nervous System,3
 V. N. Karazin National University of Kharkov,3
 Department of Theoretical and Applied Informatics,3
-Military Institute of false ,3
 Faculty of Mechanics and Mathematics,3
 Publishing Information Technology Department,3
 Karpenko Physico-Mechanical Institute of the National Academy of Sciences of Ukraine,3
@@ -719,7 +688,6 @@ Senior Researcher,3
 Associate Professor,3
 UkrNIMI,3
 Department of Automation and Computer-Integrated Technologies,3
-false ,3
 ISN Department,3
 Taras Shevcenko national university of Kyiv,3
 Pidstryhach Institute for Applied Problems in Mechanics and Mathematics,3
@@ -738,7 +706,6 @@ Department of Information Systems and Technology,3
 Kiev Polytechnic Institute,3
 Dnepropetrovsk National University,3
 Volodymyr Vynnychenko Central Ukrainian State University,3
-Department of false ,3
 Lviv,3
 Odessa National Economic University,3
 State Ecology Academy of Postgraduate Education and Management,3
@@ -774,7 +741,6 @@ Donetsk State University of Management,2
 University of Life and Environmental Sciences of Ukraine,2
 Military institute of Telecommunications and information Technologies named after Heroes of Kruty,2
 International Center,2
-false  Kharkov Polytechnic Institute,2
 Odesa State Agrarian University,2
 Institute of Physics of NAS of Ukraine,2
 "National University ""Odessa Maritime Academy""",2
@@ -785,7 +751,6 @@ Systems Analysis Laboratory,2
 Institute of Radio Astronomy of NASU,2
 Media Systems and Technologies Department,2
 Yaroslav Mudryi National Academy of Law of Ukraine,2
-Kryvyi Rih College false ,2
 Odessa State Environmental University,2
 IMST Department,2
 Igor Sikorsky KPI,2
@@ -793,10 +758,8 @@ Institute of Space Research of National Academy of Sciences of Ukraine,2
 Department of mine surveying,2
 Institute of Cybernetics,2
 Odessa Academy of Refrigeration,2
-Medical Institute of false ,2
 Space Weather Laboratory,2
 Central Scientifically-Research Institute of Armaments and Military Equipment of the Armed Forces of Ukraine,2
-false  (SumDU),2
 Department of Pediatrics,2
 National University of Kyiv,2
 Department of Theory,2
@@ -809,7 +772,6 @@ V.P. Kukhar Institute of Bioorganic Chemistry and Petrochemistry of the National
 Department of Public Health,2
 International Center Institute of Applied Optics NAS of Ukraine,2
 Department of Computer Sciences and Software Engineering,2
-"false  ""igor Sikorsky Kyiv Polytechnic Institute""",2
 Yangel Yuzhnoye State Design Office,2
 VITech Lab,2
 Zaporozhzhia National University,2
@@ -818,7 +780,6 @@ Department of intelligent Software Systems,2
 Department of Human Anatomy,2
 E.O. Paton Electric Welding Institute of the NAS of Ukraine,2
 Ukrainian State Academy of Railway Transport,2
-Educational and Scientific Complex "Institute for Applied System Analysis" of the false  "Igor Sikorsky Kyiv Polytechnic Institute",2
 Ciklum,2
 Institute of General and Inorganic Chemistry,2
 Department of Computational Physics,2
@@ -838,7 +799,6 @@ Institute of Geophysics of Ukraine National Academy of Science,2
 Institute of Humanitarian Studies,2
 Kyiv Academic University,2
 Department of Foreign Languages and Professional Communication,2
-false  "Igor Sikorsky Kyiv Polytechnic Institute",2
 Department of Banking,2
 Institute of Electrodynamics National Academy of Science of Ukraine,2
 Odessa I.I. Mechnikov National University,2
@@ -856,7 +816,6 @@ Dnieper National University Named by Oles Honchar,2
 Donbas State Pedagogical University,2
 Department of Forest Mensuration and Forest Management,2
 Institute of Plant Variety Examination,2
-false ,2
 Scientific and Technical Library,2
 International Research and Training Center for Information Technologies,2
 Department of Automated Systems of Information Processing,2
@@ -868,8 +827,6 @@ Department of International Relations,2
 Department of Systems Management Life Safety,2
 University of the State fiscal service of Ukraine,2
 Department of Internal Medicine N2,2
-false  "Igor Sikorsky Kiev Polytechnic Institute",2
-"M. Ye. Zhukovsky false  "Kharkiv Aviation Institute",2
 Institute of Mathematical Machines and Systems Problems of National Academy of Sciences of Ukraine,2
 Informatics and Applied Mathematics Department,2
 Amosov National Institute of Cardiovascular Surgery,2
@@ -884,7 +841,6 @@ Dnipropetrovsk State Agrarian University,2
 International Research and Training,2
 Kamianets-Podilskyi Ivan Ohiienko National University,2
 Department of Radio Electronic Systems,2
-Kharkiv false ,2
 Department of Mathematical Support of Computer Systems,2
 Remote Sensing Department,2
 V. I. Vernadsky Crimean Federal University,2
@@ -896,7 +852,6 @@ Department of Finance and Economics,2
 L.M. Litvinenko Institute of Physical Organic and Coal Chemistry,2
 International Research and Training Center for IT and Systems,2
 Polytechnic National University,2
-false  KPI,2
 Institute of Applied Mathematics and Mechanics of the NAS of Ukraine,2
 National Air Force University,2
 Ukrainian Lingua-Information Fund of NAS of Ukraine,2
@@ -937,7 +892,6 @@ Department of Radio and Television Broadcasting,2
 Marketing and Logistics Department,2
 Department of Reinforced Concrete and Stone Structures,2
 Department of Oncology,2
-KPI false ,2
 University of the State Fiscal Service of Ukraine,2
 Kharkiv National University of Air Force,2
 Kharkiv State Academy of Culture,2
@@ -991,8 +945,6 @@ State University of Intellectual Technologies and Telecommunications,2
 Pediatric Dentistry Dept,2
 Department of Cellular Membranology,2
 Department of Journalism,2
-false  ?"?Kharkiv Aviation Institute?"?,2
-false  (NURE),2
 Institute of Gerontology,2
 Institute of Software Systems of NAS of Ukraine,2
 Scientific Dept,2
@@ -1012,8 +964,6 @@ O.Ya. Usikov Institute for Radio Physics and Electronics,2
 Department of Transplantology Surgery,2
 International Research and Training Centre for Information Technologies and Systems of the NAS and MES of Ukraine,2
 Economic Cybernetics Department,2
-false  Kharkiv Aviation Institute,2
-false  'Igor Sikorsky Kyiv,2
 Department of Pedagogy and Psychology of Social Systems Management,2
 Kharkiv National University of Radio Electronic,2
 Aviation Computer-Integrated Complexes Department,2
@@ -1058,7 +1008,6 @@ Dge Dniproheofizyka,2
 Kharkiv Medical Academy of Postgraduate Education,2
 Department of the Telecommunication Technologies and Automation,2
 Department of Specialized Computer Systems,2
-false  "kharkiv Polytechnic Institute",2
 Educational and Scientific Centre "Institute of Biology and Medicine",2
 National Academy of Medical Sciences of Ukraine,2
 Department of Robotics and specialized computer systems,2
@@ -1068,7 +1017,6 @@ Department of Anesthesiology and Intensive Care,2
 Institute for Economics and Forecasting,2
 Priazovsky State Technical University,2
 LCL Diaprof,2
-false  of Ukraine,2
 Kharkiv Educational and Scientific Institute of SHEI "Banking University",2
 Kharkiv National University of Civil Engineering and Architecture,2
 Department of Mechanical Engineering,2
@@ -1098,7 +1046,6 @@ Institute of Radiophysics and Electronics,2
 Department of Air Navigation Systems,2
 Department of Geodesy and Cartography,2
 Shupyk National Medical Academy Of Postgraduate Education,2
-false  KhPI,2
 Kremenchuk Mykhailo Ostrohradskyi,2
 A.V. Bogatsky Physico-Chemical Institute of National Academy of Sciences of Ukraine,2
 Institute of Food Biotechnology and Genomics,2
@@ -1158,7 +1105,6 @@ Department of Functional Diagnostics,2
 Dept of Signal Transmission,2
 Center for Mental Health and Psychosocial Support,2
 Department of Marketing and Business Administration,2
-false  "Kyiv Polytechnic Institute",2
 Dnipro National University of Railway Transport,2
 Higher Educational Institution Podillia State University,2
 BUKOVINIAN STATE MEDICAL UNIVERSITY,2
@@ -1175,7 +1121,6 @@ Taurida National V.I. Vernadsky University,2
 Department of Pedagogy and Management of Education,2
 Institute of Energy Saving and Energy Management,2
 Department of Metrology and Life Safety,2
-false  Institute of Geology,2
 Ukrainian State Research and Design Institute of Mining Geology,2
 Department of Environmental Psychology and Sociology,2
 Institute of Radio Astronomy of the National Academy of Sciences of Ukraine,2
@@ -1267,7 +1212,6 @@ Pukhov Institute for Modeling in Energy Engineering,2
 Radio Engineering Faculty,2
 IC Institute of Applied Optics,2
 Software Systems and Technologies Department,2
-false  'Khai',2
 Vinnitsya National Technical University,2
 Faculty of Cybersecurity,2
 AI Department,2
@@ -1295,7 +1239,6 @@ Road Transport Faculty,2
 Lang-uk,2
 Scientific Centre for Aerospace Research of the Earth NAS of Ukraine,2
 Kharkiv V. N. Karazin National University,2
-The false  "Igor Sikorsky Kyiv Polytechnic Institute",2
 R. Glier Kyiv Municipal Academy of Music,1
 Bohdan Khmelnytsky National University Of Cherkasy,1
 Business And Administratiom State Biotechnological University,1
@@ -1356,7 +1299,6 @@ Branch "R&D Institute of Gas Transportation" Ukrtransgaz Joint Stock Company,1
 State Institution "Kundiiev Institute of Occupational Health of the National Academy of Medical Sciences of Ukraine",1
 Department of Information Technologies Employment and Information Security,1
 Grigoriev Institute For Medical Radiology And Oncology,1
-false  "Kharkiv polytechnic institute",1
 Scientific-research center of missile troops and artillery,1
 Ukraine Open International University of Human Development,1
 Emergency Rescue Service of Kharkiv,1
@@ -1367,14 +1309,12 @@ Vice-Rector for Administrative Policy and Research,1
 Department of Therapy of Shupyk National Healthcare,1
 Bogdan Khmelnytsky Melitopol State Pedagogical University,1
 O.Ya.Usikov Institute for Radiophysics and Electromics,1
-false  "Igor Sikorsky Kyiv Polytechnic Institute" of the Ministry of Education and Science of Ukraine,1
 Astronomical Observatory of the I. I. Mechnikov National University of Odesa,1
 Institute for Social and Political Psychology,1
 A.V. Dumansky Institute of Colloid Chemistry and Water Chemistry of the National Academy of Sciences of Ukraine,1
 Kharkiv National Automobile and Road University,1
 Filatov Institute of Eye Diseases and Tissue Therapy of the National Academy of Medical Sciences of Ukraine,1
 Educational and Scientific Institute,1
-false  (NULES),1
 Institute for Nuclear Research of NASU,1
 Engineering And Technological Institute 'Biotechnica',1
 I.I.Mechnikov Odessa National University,1
@@ -1389,11 +1329,8 @@ Department of Finance and Credit Kharkiv,1
 Department of Economic of Enterprise,1
 State Enterprise State Land Cadastre Center,1
 Institute Information Technologies In Economics,1
-false (NURE),1
 Heroes of KrutyMilitary Institute of Telecommunicationsand Informatization,1
-false  Ukraine,1
 Department of Machines and Apparatuses,1
-false  "Dnipro Polytechnic",1
 State Institution the Institute of Environmental Geochemistry,1
 Department of informative and operating Systems and Technologies,1
 Supreme Court,1
@@ -1416,14 +1353,12 @@ Taras Shevchenko,1
 Department for Special Branches of Historical Science and Electronic Information Resources of Institute of History of Ukraine,1
 SI "Institute of Gastroenterology of NAMS of Ukraine",1
 Department of Photonic Processes,1
-Professional College of Engineering and Management of the false ,1
 NGO 'Ukrainian Nature Conservation Group',1
 Department of Botany (and Oleksii Vasyliuk's Lab),1
 Scientific-Practical Center of Endovascular Neuroradiology of the National Academy of Medical Sciences of Ukraine,1
 Head of Department of Electrothermal Processes of Materials Processing,1
 Faculty of International Economics and Management,1
 Department of New Physical and Chemical Ways of Welding,1
-Institute for Applied System Analysis of the false  "Igor Sikorsky Kyiv Polytechnic Institue",1
 Department of Viticulture and Horticulture,1
 Mykolaiv Astronomical Observatory,1
 Department of Service and Training National University of Civil Defence of Ukraine,1
@@ -1482,7 +1417,6 @@ Ivano-Frankivsk National Medical Universit",1
 Measuring Systems and Telecommunications in Yuzhnoye SDO,1
 Department of Aerospace Radio-electronic Systems,1
 Department of Aerospace Radioelectronic Systems,1
-"false  ""Kharkov Aviation Institute""",1
 Department of Software Engineering and Business Faculty,1
 Department of artificial intelligence and software,1
 M.G. Kholodny Institute of Botany of the National Academy of Sciences of Ukraine,1
@@ -1562,7 +1496,6 @@ Kharkiv Radio"ngineering College of the Ministry of Education and Science of Ukr
 Ivan Kozhedub Kharkiv National University of the Air Force of the Ministry of Defense of Ukraine,1
 Kharkiv National University of Radio "lectronics of the Ministry of Education and Science of Ukraine,1
 Kharkiv Medical Academy of Postgraduate Education of the Ministry of Health of Ukraine,1
-Naval-Scientific Medical Institute of Kharkiv false  "Kharkiv Polytechnic Institute" of the Ministry of Education and Science of Ukraine,1
 Department of World Economy and International Economic Relations,1
 Institute of Engineering Thermophysics of Nas of Ukraine,1
 Lemberg Solutions LLC,1
@@ -1590,7 +1523,6 @@ Kyiv Regional Employment Center,1
 Institute of Renewable Energy of the National Academy the Sciences of Ukraine,1
 Postgraduate Student,1
 Dept of Propedeutic of Internal Medicine,1
-Faculty of Physics of false ,1
 Diagnostic Radiology Department,1
 Diagnostic Radiology Department of Kharkiv Medical Academy of Postgraduate Education,1
 Pukhov Institute for Modelling in Energy Engineering NAS of Ukraine,1
@@ -1618,12 +1550,10 @@ Academy of Labour Social Relations and Tourism,1
 Ivan Franko Lviv national University,1
 Kherson city neuropsychiatric center,1
 Military Institute of Telecommunications and Informatization,1
-false  "Igor Sikorsky Kyiv Polytechnic University",1
 Ternopil National Ivan Puluj Technical University,1
 Faculty of Veterinary Hygiene,1
 Department of Information System and Technology,1
 PJSC Zaporizhzhia Iron-Ore Plant,1
-Kirovograd Flight Academy of the false ,1
 National Pedagogical University named after M.P. Drahomanov,1
 Department of Radio Astronomy Equipment and Methods of Observations,1
 Viacheslav Chornovil Institute of Sustainable Development,1
@@ -1645,7 +1575,6 @@ Institute of Geophysics by. S. I. Subbotin name of the NAS of Ukraine,1
 SI "Institute of Urology of the National Academy of Medical Sciences of Ukraine",1
 Department of Mathematics and Methods of its Teaching,1
 Lyft Ukraine Llc,1
-false  "Kharkiv Polytechnic Institute",1
 Institute of Electrodynamics of NAS of Ukraine,1
 Head of Department of Information-communication technologies named after O. O. Zelensky,1
 JSC "Institute of Information Technologies",1
@@ -1699,7 +1628,6 @@ Odessa State Academy Regulation and Quality,1
 Department of Geoinformatics and Photogrammetry,1
 Ukrainian Catholic University in Lviv,1
 Private institution of higher education "Odessa University of Technology "Shah"",1
-false  named after N.Zhukovsky "Kharkiv Aviation Institute",1
 Research and Production Enterprise "LTU" (RPE LTU),1
 The State University of Telecommunications,1
 Department of Economic Policy and Management,1
@@ -1711,16 +1639,8 @@ Department of International Organizations and Diplomatic Service,1
 Department of International Regional Studies,1
 Limited Liability Company,1
 SI "Dnipropetrovsk Medical Academy of Ministry of Health of Ukraine",1
-false  ""Igor Sikorsky Kyiv Polytechnic Institute"",1
-Department of Design Automation,1
-false  ""Kharkiv Aviation Institute"",1
-The Taras Shevchenko National University,1
 Department of General Problems of Formation and Implementation of Innovation Policy,1
 Khark"v Medical Academy of Postgraduate Education,1
-V.N. Karazin Khark"v National University,1
-Burisma,1
-Department of Tactics,1
-Faculty of Information Technology false ,1
 Department of Artificial Intelligence and Software,1
 Department of Foreign Philology,1
 Department of Telecommunications and Radio Engineering,1
@@ -1735,15 +1655,8 @@ interdepartmental Research Center for Combating Organized Crime,1
 "Public Agency ""National Scientific and Research Institute of Industrial Safety and Occupational Safety and Health""",1
 Department of Logistics and Technical Support of Rescue Operations,1
 Department of Language Training,1
-"false  ""Igor Sikorsky Kiev Polytechnic Institute""",1
-Interregional Academy of personal management,1
-Student of false ,1
 Associate Professor at the Computer Science Department,1
 information Systems and Technologies Department,1
-Senior Specialist of the Computer Science Department of false ,1
-Department Military institute of Telecommunications and information Technologies named after Heroes of Kruty,1
-College of Information Technologies and Land Management of the false ,1
-Department of Comprehensive Risk Reduction for Chronic Non-Communicable Diseases,1
 Department of Software Engineering of Automated Systems,1
 SI "National Research Center for Radiation Medicine of National Academy of Medical Sciences of Ukraine",1
 Department of Network and internet Technologies,1
@@ -1772,8 +1685,6 @@ Instruments and Control-measurement Systems Department Ternopil Ivan Puluj Natio
 Telecommunications and Radio Engineering Department Zhytomyr S. P. Koroliov Military Institute,1
 Decameter Radio Astronomy Department The Institute of Radio Astronomy,1
 Research and Development Division National Space Facilities Control and Test Center,1
-SHEE false ,1
-"State Institution ""Scientific Hydrophysical Centre",1
 Kyiv Astronomical Club "Astropolis",1
 Department of Physics and Electrical Engineering,1
 V. Ye. Lashkaryov Institute of Semiconductor Physics of NAS of Ukraine,1
@@ -1790,9 +1701,6 @@ Kyiv Scientifically-Research Expertly-Criminalistics Center Ministries of Intern
 Odessa Research Institute of Forensic Expertise,1
 State Institution "Institute of Pediatrics,1
 Faculty of Geoinformation Systems and Territory Management Technologies,1
-Institute of Renewable Energy,1
-Institute for Applied Systems Analysis false  "Igor Sikorsky Kyiv Polytechnic Institute" of the Ministry of Education and Science of Ukraine,1
-Ukrrestavratsiia Corporation,1
 "STATE HIGHER EDUCATIONAL INSTITUTION ""UZHHOROD NATIONAL UNIVERSITY""",1
 Central Research Institute of Armaments And Military,1
 Poltava State Agrarian Academy,1
@@ -1818,19 +1726,11 @@ Institute of Telecommunication and Global Information Space of NASU,1
 Shupik National Healthcare University of Ukraine of the Ministry of Health of Ukraine,1
 State Institution "Romodanov Neurosurgery Institute National Academy of Medical Sciences of Ukraine",1
 Technical University "Metinvest polytechnic",1
-Faculty of Computer and Information Technologies false  "KhPI",1
 Department of Mycology and Phytoimmunology,1
 V.I. Vernadsky Crimean Federal University,1
 Department of Service and Training,1
 Department of Educational and Information Technologies,1
 Central Scientific Research Institute of Armament and Military Equipment of the Armed Forces of Ukraine,1
-Department of Project Management in Urban Economy and Construction,1
-Department of Metrology and Industrial Safety,1
-Department of Communication and Automated Control Systems,1
-Department of Social and Humanitarian Desciplines,1
-Department of Information Technology and Multimedia Systems false  &#x201C;Kharkiv Polytechnic Institute&#x201D,1
-Department of Networking and Internet Technologies,1
-Department of Software Systems and Technologies,1
 Department of Computational Mathematics and Computer Modeling,1
 S. P. Korolyov Zhytomyr Military Institute,1
 V.M Glushkov Institute of Cybernetics,1
@@ -1846,15 +1746,10 @@ State Institution " Lviv Oblast Center for Diseases Control and Prevention of Mi
 Department of Phytoecology,1
 Odessa Scientific Research Institute of Forensic Expertise of the Ministry of Justice of Ukraine,1
 Kyiv Expert and Forensic Center of the Ministry of Internal Affairs of Ukraine,1
-Department of Data Science,1
-Department of Technology of Processing,1
-Integrated Complexes false ,1
 PROSECUTOR GENERAL'S OFFICE OF UKRAINE,1
 Department of Civil and Labour Law,1
 State Institution "Dnipropetrovsk Medical Academy of the Ministry of Health of Ukraine",1
 D. F. Chebotarev Institute of Gerontology of National Academy of Medical Sciences of Ukraine,1
-Computer Science Department of false ,1
-false ,1
 Research and development centre of Rocket Forces and Artillery of the Ukrainian Armed Forces,1
 Department of Computer science and intellectual property,1
 Department of Computer Engi-neering and Programming,1
@@ -1868,9 +1763,6 @@ Odessa,1
 Department of Menegement,1
 Z.I. Nekrasov Institute for Iron and Steel of the N.A.S. of Ukraine,1
 Automation and Mechatronics Kharkiv National University of Radioelectronics,1
-LLC 'RPC' Robotec',1
-false  'Kharkov Polytechnic Institute',1
-Kharkiv Computer Technology Professional College of the false  "Kharkiv Polytechnic Institute",1
 Department of "omputer Intelligent Technologies and Systems,1
 Department of Metrology and Information and Measuring T"echnique,1
 Department of Biomedical Engineering and Telecommunications,1
@@ -1888,10 +1780,6 @@ Karpenko Physico-Mechanical Institute of The NAS of Ukraine,1
 Institute Applied System Analysis,1
 Institute of Nuclear Medicine and Diagnostic Radiology of NAMS of Ukraine,1
 Institute of AI Problems of the MES and NAS of Ukraine,1
-M. Gorky Donetsk National Medical University,1
-Berdyansk State Pedagigical University,1
-Electronics and Computer Systems false ,1
-'Institute of Biology and Medicine' false ,1
 V. M. Glushkov Institute of Cybernetics of The NAS of Ukraine,1
 Department of Humanities Education,1
 F.G. Yanovsky National Institute of Phthisiology and Pulmonology of the NAMS of Ukraine,1
@@ -1923,9 +1811,6 @@ SI "V. Danilevsky Institute for Endocrine Pathology Problems of the NAMS of Ukra
 Information Systems,1
 Dneprovsk State Medical University,1
 National Medical University. A.A. Bogomolets,1
-PHEI 'Bukovinian University',1
-Samsung RD Institute,1
-false  'Kharkiv Polytechnic Institute,1
 Institute of Mathematics of NAS of Ukraine,1
 Department of Humanities and Social Sciences,1
 Department of Choreographic Art,1
@@ -1978,8 +1863,6 @@ SHEI 'Donetsk National Technical University',1
 V.N. Karazin,1
 Institute of Labor Safety and Ecology in the Mining and Metallurgical Industry,1
 The Research Institute of Labor Safety and Ecology in the Mining and Metallurgical Industry,1
-The Research Mining Institute of false ,1
-"State Research and Production Enterprise ""State Information Geological Fund of Ukraine""",1
 Samsung R&d Institute Ukraine,1
 Department of Criminal Procedure,1
 Research and Production Enterprise LTU (RPELTU),1
@@ -1996,9 +1879,6 @@ Rtificial Intelligence Department,1
 V.P. Kukhar Institute of Bioorganic Chemistry and Petrochemistry of,1
 Institute of Civil Engineering and Architecture,1
 Legal Department of "CCM" SE (Publicis Groupe Ukraine),1
-English Philology Department,1
-"Educational and Research Institute for Applied System Analysis of the false  "Igor Sikorsky Kyiv Polytechnic Institute," Ministry of Education and Science of Ukraine and the National Academy of Sciences of Ukraine",1
-Institute for Applied System Analysis of Igor Sikorsky Kyiv Polytechnic Institute,1
 Department of Administrative and Financial Management,1
 Miratech,1
 A.V. Bogatsky Physico-Chemical Institute,1
@@ -2045,8 +1925,6 @@ Research and Production Enterprise "LTU" (RPELTU),1
 Research Center of Robotics,1
 Department for Information Computer Systems and Control,1
 State Institution of Science "Research and Practical Centre of Preventive and Clinical Medicine" State Administration Department,1
-State Institution of Science "Scientific and Practical Center of Preventive and Clinical Medicine" of the State Administrative Department,1
-false  "Kharkiv Aviation Institute,1
 National Scientific Centre "Hon. Prof. M. S. Bokarius Forensic Science Institute",1
 G.E. Pukhov Institute for Modelling in Energy Engineering of the National Academy of Sciences of Ukraine,1
 V. I. Vernadskyi National Library of Ukraine,1
@@ -2060,31 +1938,9 @@ International scientific and educational center of information technologies and 
 Department of Publishing and Editing,1
 Institute of Publishing and Printing,1
 JSC "Farmak",1
-Faculty of Electronics and Information Technologies,1
 State Space Agency of Ukraine,1
 Ukrainian Research Institute of Forestry and Forest Melioration Named after G. M. Vysotsky,1
-"Separated Structural Subdivision ""Kryvyi Rih Professional College of false """,1
 "Engineering and Technological Institute ""Biotechnica""",1
-Department of Monetary Relations,1
-The Sector for International Financial Research,1
-Department Management,1
-Intellectual Property and Informational Law Depatment,1
-Department of Entrepreneurship and Environmental Examination of Goods,1
-The Department of International,1
-Department of Criminal Law and Criminology,1
-Ukrainian academy of printing,1
-Pharmacy Department,1
-State Institution "V. Danilevsky Institute for Endocrine Pathology Problems,1
-Department of endocrinology,1
-Surgical Department,1
-Department of Gynecology,1
-Department of Pharmacotherapy of Endocrine Diseases,1
-Department of Endocrinology and Pediatric Infectious Diseases,1
-Department of Pedagogy V. N. Karazin,1
-Department of Professional and Higher Education,1
-Department of Personnel Management,1
-Department of Professional Education"s Methods,1
-Department of Production Technologies and Professional Education,1
 State Institution "Institute of Gastroenterology of the National Academy of Medical Sciences",1
 Science Laboratory of Criminal legal and Sociological Studies,1
 SI "Zaycev V.T. Institute of general and urgent surgery National Academy of Medical Sciences of Ukraine",1
@@ -2129,16 +1985,11 @@ Odessa customs of the State Fiscal Service of Ukraine,1
 Kharkiv National University of Radio Eelectronics,1
 Command of the Ground Forces of the Armed Forces of Ukraine,1
 Academician Stepan Demianchuk International University of Economics and Humanities,1
-false  Sumy,1
 Department of Organic Chemistry and Technology of Organic Substances,1
 The Department of Phylosophy,1
 S. I. Subbotin Institute of Geophysics,1
 Odesa I. I. Mechnikov National University,1
 U" "Volyn Regional Clinical Hospital",1
-Institute of Electrodynamics of the National Academy of Sciences of Ukraine,1
-Odessa State Ecological University,1
-"false  ""Igor Sikorsky Kyiv Polytechnic Institute",1
-Institute of International Relations of false ,1
 Department of Management and International Entrepreneurship,1
 Department of Clinical Laboratory Diagnostics,1
 Department of Therapeutic Disciplines and Family Medicine,1
@@ -2210,7 +2061,6 @@ Department of information security and telecommunications,1
 Telecommunication and Radioelectronic Systems Department,1
 Aerospace Control Systems Department,1
 "Scientific Research and Design Institute ""Molniya""",1
-false  Kharkov,1
 Dept. Computer Systems,1
 Dept. Multimedia and Internet Technologies and Systems,1
 Dept. Internet of Things,1
@@ -2220,7 +2070,6 @@ Department of Marketing named after A.F. Pavlenko,1
 Department of Marketing and Communication Design,1
 Department of Design and Engineering,1
 Department of Mathematics and Software of ACS,1
-false  "Igor Sikorsky KPI",1
 Dept. of Accounting Analysis and Audit,1
 Dept. of Public Management and Administration,1
 Department of Business and Environmental Expertise of Goods,1
@@ -2250,10 +2099,6 @@ Department of Strength of the Materials and Structures in Hydrogen-Containing En
 International Students Surgical Network (InciSioN) Ukraine,1
 OO Bogomolets National Medical University,1
 Department of Cars and Carriage Facilities,1
-High State Educational Establishment "Chernivtsi transport college",1
-State Institution "D.F. Chebotarev Institute of Gerontology of the NAMS of Ukraine",1
-false KharkivPolytechnic Institute,1
-"""Astronomical Observatory"" Research Institute",1
 Department of Higher and Applied Mathematics,1
 Department of Automation and Computer-Aided Technologies,1
 Scientific-Research Laboratory,1
@@ -2296,8 +2141,6 @@ Department of Information Technology and Computer Engineering,1
 State institution "Scientific centre for aerospace research,1
 Sigmund Freud University Ukraine,1
 Department of Social Welfare,1
-Department of Management and Public Service,1
-Humanitarian Policy and Innovation at false ,1
 Department of Management and Innovative Providing,1
 Garden City University College,1
 Forensic Research Institution,1
@@ -2354,18 +2197,12 @@ Humanities Department,1
 State Institution "V.P. Komisarenko Institute of Endocrinology and Metabolism,1
 WebSpellChecker LLC,1
 Institute of Electrophysics and Radiation Technologies NAS,1
-Kharkiv Regional Institute of Public Administration of the National Academy of Public Administration attached to the Office of the President of Ukraine,1
-Department of Holy Scripture and Theology of Volyn Orthodox Theological Academy,1
-Department of Advertising and Public Relations of false ,1
 Department of Administrative-Legal Disciplines,1
 Juror of the Shevchenko District Court of Lviv,1
 Institute of Industrial Economics of the NAS of Ukraine,1
 Department of Operational-Search Activity,1
 Department of Traumatology and Orthopedics,1
 SI "Institution of Traumatology and Orthopedics of National Academy of Medical Sciences of Ukraine",1
-Department Internal Medicine #3,1
-Academician of the Academy of Sciences of Ukraine,1
-Department of Oncology and Radiology of false ,1
 IT-Company SciForce,1
 Department of Social Psychology and Developmental Psychology,1
 The V.M. Glushkov Institute of Cybernetics of the NAS of Ukraine,1
@@ -2434,9 +2271,6 @@ Department of Management and Quality Assurance in Pharmacy,1
 School of Radiophysics,1
 Poltava Polytechnic Vocational College,1
 Department of Customs and Financial Services Simon Kuznets Kharkiv,1
-Department of Mathematical and Econometric Modeling,1
-Department of Accounting Analysis,1
-"EDCATIONAL AND SCIENTIFIC CENTER ""INSTITUTE OF BIOLOGY AND MEDICINE"" OF false ",1
 Department of Accounting Taxation,1
 BOGOMOLETS NATIONAL MEDICAL UNIVERSITY,1
 NATIONAL PIROGOV MEMORIAL MEDICAL UNIVERSITY,1
@@ -2446,12 +2280,6 @@ Sergeant Military College of Military Institute of Telecommunications and Inform
 State Agrarian and Engineering University in Podilya,1
 O.O. Bogomolets National Medical University,1
 BORYS GRINCHENKO KYIV UNIVERSITY,1
-Department of Surgical Dentistry and Clinical Subjects,1
-Rivne Medical Academy,1
-Department of Urology,1
-Department of Endourology and Lithotripsy,1
-V. M. Glushkov Institute of Cybernetics of the NAS of Ukraine,1
-The false  Igor Sikorsky Kyiv Polytechnic Institute,1
 Department of Oncology and Radiology,1
 Sumy Regional Council Municipal Non-Profit Enterprise "Sumy Regional Clinical Oncology Center",1
 CSD Medical Laboratory,1
@@ -2461,20 +2289,6 @@ Informatics and Intellectual Property Department,1
 Cybersecurity and Software Academic Department,1
 "S I ""V. Danilevsky Institute for endocrine pathology problems of NAMS of Ukraine""",1
 State Organization "V. Mamutov Institute of Economic and Legal Research of the National Academy of Sciences of Ukraine",1
-Department of Economics of Education,1
-Department of International Accounting Department,1
-Research Institute of Economic Development,1
-Department of International Economy Department,1
-Department of Economics Finance,1
-Department of Accounting Business Consulting,1
-Department of Social Medicine,1
-Department of Banking Business and Financial Technologies,1
-Kiev National University Named by Taras Shevchenko,1
-Academic Work and Regional Development,1
-Odessa Polytechnic National Univ,1
-National Center Junior Academy of Sciences of Ukraine,1
-International Center for Astronomical,1
-false  Media,1
 The Institute of Environmental Geochemistry,1
 V. O. Sukhomlynsky National University of Mykolaiv,1
 "PO ""Ukrainian Aerial Geodesic Association""",1
@@ -2490,12 +2304,6 @@ Research Center for Industrial Problems of Development of the National Academy o
 Department of Information Technologies of Design and Applied Mathematics,1
 Academic Affairs and Integrated Development,1
 Crimean astrophysical observatory,1
-Department of General Law Disciplines,1
-Department of Legal Support for the Functioning of the National Innovation System,1
-Department of Civil Law Disciplines,1
-Department of Biochemistry and Pharmacology,1
-Department of Microbiology,1
-Department of Telecommunication and Radioelectronic Systems,1
 "SI ""Institute for Children and Adolescents Health Care of the NAMS of Ukraine""",1
 Aerospace Radio-electronic Systems Department,1
 Institute of Electron Physics of the NAS of Ukraine,1
@@ -2508,7 +2316,6 @@ Institute Of Cybernetics Of National,1
 System Space Research Institute Nas Ukraine An Ssa Ukraine,1
 State University 'Odesa Polytechnic',1
 Institute of Telecommunications and Global Information Space at Nas of Ukraine,1
-false  and Toufik's World Medical Association,1
 The Public Policy Department,1
 The Department of International Law and Comparative Law,1
 The Department of Research on Communication Problems between the State and Civil Society,1
@@ -2518,14 +2325,6 @@ Faculty of Technology of Grain and Grain Business,1
 Education Institute O. Bogomolets National Medical University,1
 Elvatech Ltd.,1
 Institute of Applied Problems of Physics and Biophysics,1
-Department of Computer Technologies and Reconstruction of Airports and Highways,1
-Department of Hotel and Restaurant and Tourist Business,1
-Department of Economic and Mathematical Modeling State Higher Educational Establishment,1
-Informatics and Systemology Department State Higher Educational Establishment,1
-Department of Forensic Medicine and Medical Law,1
-Department of Business Informatics and Economic Modelling,1
-Department of Economic Theory and Economic Cybernetics,1
-Department of Breeding,1
 Economic Educational and Scientific Institute,1
 I. Markina Department of Management,1
 National Scientific Center "Institute of Agrarian Economics",1
@@ -2548,8 +2347,6 @@ Institute for Evolutionary Ecology National Academy of Sciences of Ukraine,1
 Presidium of the National Academy of Agrarian Sciences of Ukraine,1
 Ternopil Volodymyr Hnatiuk,1
 Faculty of Applied Sciences of Ukrainian Catholic University,1
-Dialog Semiconductor,1
-Kharkiv Prof. Coll. of Information Technologies of false  M.E. Zhukovsky KhAI,1
 National Pedagogical Drahomanov University,1
 Computer Science Faculty NURE,1
 NURE,1
@@ -2563,7 +2360,6 @@ University of Artificial Intelligence and Digitalization,1
 State Enterprise "Donuglemash",1
 Institute for Nuclear Research of the National Academy of Sciences of Ukraine,1
 National Research Center "Kharkiv Institute of Physics and Technology",1
-false  "Kharkiv Polytechnic Institute,1
 State enterprise "National Nuclear Energy Generating Company "Energoatom,1
 Science and Technology Establishment "Nuclear Fuel Cycle" of National Science Center "Kharkiv Institute of Physics and Technology,1
 Department of Obstetrics and Gynecology No. 1 of the Vinnytsya National Pirogov Memorial Medical University,1
@@ -2613,29 +2409,6 @@ NATIONAL ACADEMY OF EDUCATIONAL SCIENCES OF UKRAINE,1
 DRAHOMANOV NATIONAL PEDAGOGICAL UNIVERSITY,1
 Department of Information Activity and Media Communications,1
 ERIHI "Kamianets-Podilsky state institute",1
-Department of Radiophysical Introscopy,1
-Department of Applied Electrodynamics,1
-Institute of Traumatology and Orthopedics National Academy of Medical Science of Ukraine,1
-Kyiv Regional Center of Emergency Medical Care and Disaster Medicine,1
-Oil-and-Gas Engineering and Drilling Department,1
-Physical and Technical Institute,1
-Sciences Department,1
-M. Glushkov Institute of Cybernetics,1
-Department of Children"s Diseases and Pediatric Surgery,1
-Department of Animal Anatomy,1
-Faculty of Economics and Management,1
-Academic and Research Institute of Business,1
-Scientific Department,1
-Department of Applied Mathematics and Complex Systems Modeling,1
-State Higher Educational Institution "Pryazovskyi State Technical University",1
-Private Enterprise LitSoft,1
-Kharkiv Polytechnic University,1
-Oleg Balatskyi Academic and Research Institute of Finance,1
-Kharkiv National Univesitsity of Radio Electronics,1
-Odessa Military Academy,1
-Dnipro Polytechnic,1
-Ukrainian State Research Institute for Carbochemistry (SE "UKHIN"),1
-"false  ""Kharkiv Polytechnic Institute"" (NTU HPI)",1
 Kyiv National Economics University Named After Vadym Hetman,1
 Department of Information Radioelectronic Technologies and Systems,1
 Institute of Electrodynamics National Academy of Sciences of Ukraine,1
@@ -2646,27 +2419,11 @@ Center for Law,1
 Department of International Private Law and Comparative Law,1
 Department of Higher Mathematics and Mathematics Teaching Methods,1
 Haisyn Department of the SFS General Directorate in Vinnytsia Region,1
-Onseo Company,1
-Institute of Agriculture of Carpathian Region,1
-Department of Surgical Oncology,1
-Department of Human and Animal Physiology,1
-Department of Criminology and Psychology,1
-Department of Cell Regulatory Mechanisms,1
-Department of Protein Synthesis Enzymology,1
-Department of Medicinal Chemistry,1
-Scientific Services Company Otava Ltd,1
-Department of Cybersecurity and Software,1
-Institute of Electronics and Communication,1
 Chernivtsi Trade and Economic Institute Kiev National University of Trade and Economics,1
 National Tech. University of Oil & Gas,1
 Ukraine Academy of Printing,1
 Korolov Zhytomyr Military Institute,1
 Institute of Agriculture of the North-East,1
-false  Department Economic Theory,1
-Military Academy (Odesa),1
-Department of Media Engineering and Information Electronic Systems,1
-A. Ya. Usikov Institute for Radiophysics and Electronics,1
-false 'Igor Sikorsky Kyiv Polytechnic Institute',1
 Department of Financial Technologies and Entrepreneurship,1
 Consulting Group INEX-FT,1
 National University 'Yuri Kondratyuk Poltava Polytechnic',1
@@ -2679,39 +2436,12 @@ Data&Analytics Ciklum,1
 The Department of Philosophy and Humanities,1
 Citizen scientists,1
 National Reserve "Khortytsia",1
-The false  "Igor Sikorsky Kyiv Polytechnic Institute",1
-Design of Energy Processes and Systems,1
-Department Automation of Design of Energy Processes and Systems,1
-Department of Computer Aided Design at National Technical University,1
-Department of Electrothermal Processing Material,1
-Department of Strength of Welded Structures,1
-Department of Optimizing of Advanced Welded Structures,1
-Department of Welding Technology,1
-Department of General Problems of Formation and Implementation Innovative Policy,1
-Department of Labour Law,1
-Research Center of Economic and Legal Solutions in the Area of Application of Distributed Ledger Technologies,1
-Department of Civil Law No. 1,1
-Department No. 11,1
-Department of Operations Management of Military Intelligence and Special Operations Units,1
-Department of Information Technology Application and Information Security,1
 Institute for Research,1
 Department of Information Technology Application and Information Security Institute for Providing Troops (Forces) and Information Technologies,1
 Department of Intelligent,1
 Korolyov Zhytomyr Military Institu,1
 Insitute of Foreign Philology,1
 Mykhailo Tuhan-Baranovskyi Donetsk National University of Economics and Trade,1
-Eighth Administrative Court of Appeal,1
-Educational and Scientific Centre,1
-Department of Marketing and Logistics,1
-Institute of Engineering Thermophysics of the National Academy of Sciences of Ukraine,1
-false  "Igor Sikorsky Kyiv Politechnic Institute",1
-Department radio and television broadcasting,1
-Intl. Res. and Training Center for Information Technologies and Systems under NAS and MES of Ukraine,1
-false  KhAILossless Compression,1
-Department of Corrosion and Corrosion Protection,1
-Department of Computerized Engineering,1
-Department of Highways and Bridges,1
-Department of Building Constructions and Bridges,1
 English Language Department,1
 Department of English,1
 Kremenchuk Mykhailo Ostohradskyi National University,1
@@ -2729,9 +2459,6 @@ Astronomy and Space Physics Department,1
 Taras Shevchenko National University 'Chernihiv Colehium',1
 Institute of Cybernetics of National Academy of Sciences of Ukraine,1
 Llc Bit Group,1
-Department of Marketing and International Trade,1
-Department of Marketing and Logistic,1
-Department of Multimedia Technologies and Media Design,1
 Separated Subdivision "Atomremontservis" of State enterprise "National Nuclear Energy Generating Company "Energoatom",1
 Department of Biomedical Engineering and Optic-Electronic Systems,1
 Lviv Regional Hospital,1
@@ -2739,14 +2466,6 @@ Department of Reprography,1
 National Center "Junior Academy of Science of Ukraine",1
 Language Training Department,1
 Faculty of Computer and Information Technologies and Automation,1
-Odess" Polytechnic National University,1
-Intellias Company,1
-V. V. Popovskyy Department of Infocommunication Engineering,1
-Department of Communication Technologies and Cyber Protection,1
-Department of Construction of Telecommunication Systems,1
-Department of Construction and Road-Building Machinery,1
-Institute for Scientific Work,1
-Depaptment of Laboratory Tests of Scientific and Technical Complex of Measurements,1
 Center for Military and Strategic Studies,1
 Department of Engineering Equipment,1
 HTA,1
@@ -2761,10 +2480,6 @@ D.F. Chebotarev Institute of Gerontology NAMS of Ukraine,1
 Palladin Institute of Biochemistry of the NAS of Ukraine,1
 Zhytomyr Military Institute of S.P. Korolev,1
 National Museum of History of Ukraine,1
-Institute of Archaeology of the National Academy of Science of Ukraine,1
-Scientific Research Centre "Rescue Archaeological Service",1
-"false  ""Igor Sikorsky Kyiv Polytechnic Institute """,1
-National Scientific Center "Institute for Soil Science and Agrochemistry Research named after O.N. Sokolovsky",1
 "Municipal Institution ""Volyn Regional Junior Academy of Sciences""",1
 Ukrainian Scientific Center for the Development of Information Technologies,1
 The State Scientific and Technical Library of Ukraine,1
@@ -2806,14 +2521,6 @@ Dept. of Marketing and International Trade,1
 "Dept. of Finance and Marketing Private Higher Educational Institution ""Institute of Ecology of Economics and Law""",1
 Dept. of Public Administration,1
 Dept. of Publik Administrafion and Lokal Self-government,1
-Departament of Management and Publik Administration,1
-Department of Analytical Economics and Management,1
-Department of Public Administration and Local Self-government,1
-Department of Economics and Social and Labor Relations,1
-Department of Administration and Lokal Self-government,1
-Research Center National University of Civil Defence of Ukraine,1
-Scientific Research Center Institute of Special Communications and Information Protection,1
-Educational and Scientific Institute of Public Administration and Civil Service false ,1
 Scientific Research Department of Communication,1
 Deputy Head of Faculty,1
 Institute of Geophysics by S. I. Subbotin name National Academy of Sciences of Ukraine,1
@@ -2894,11 +2601,6 @@ Department of Oncology of Kharkiv National Medical University,1
 Oncosurgery Department of State Organization "Grigoriev Institute for Medical Radiology and Oncology of the National Academy of Medical Sciences of Ukraine",1
 Bohdan Khmelnytskyi National Academy of the State Border Guard Service of Ukraine,1
 National Cancer Institute Ministry of Health of Ukraine,1
-Research and Organizational Department,1
-Department of Methodology of Professional Training,1
-Department of Ukrainian Literature,1
-University of Lviv,1
-Networks and Cybersecurity false  KhAI,1
 National Tehchnical University of Ukraine,1
 Federal State Budget Scientific Institution Crimean Astrophysical Observatory of RAS,1
 Test Automation Lead,1
@@ -2911,23 +2613,6 @@ Marketing and Logistic Department,1
 Department of Jurisprudence of Central Ukrainian Institute PrJSC Higher Education Institution MAUP,1
 Department of law enforcement and anti-corruption activities of the Educational and Scientific Institute of Law. Prince Vladimir the Great of Interregional Academy of Personnel Management,1
 Hryhorii Skovoroda University,1
-Clinical Hospital "Feofaniya",1
-Ternopil Regional Clinical Hospital,1
-LISOD Hospital of Israeli Oncology,1
-Zaporizhia National University,1
-Government University of Trade and Economics,1
-Institute of Education and Science in Electrical Engineering and Information Technologies,1
-Institute of Renewable Energy of the National Academy of Sciences of Ukraine,1
-Institute of Social and Economic Initiatives,1
-National University of Live and Environment Sciences of Ukraine,1
-Department of the Information Society and Law,1
-Department of Problems of Criminal Law,1
-Department of Computer Technology,1
-Department of Road Design,1
-Research Department of Combat Crews,1
-Scientific and Methodical Center,1
-Defence Intelligence of Ukraine,1
-Department of Transport Law and Logistics,1
 Kyiv Electromechanical Professional Pre-Higher College,1
 Sector of Scientific and Educational and Methodological Support for the Training of Professional,1
 The National Defence University of Ukraine named after Ivan Cherniakhovskyi,1
@@ -3013,14 +2698,6 @@ TV and SB Department,1
 National Center of Control and Testing of Spacecraft,1
 Astronomical Observatory of Kyiv University,1
 State Institution National Research Center for Radiation Medicine,1
-Department of computer science,1
-Department of Biosafety and human health,1
-Department of reprography,1
-Department of open pit named by prof. Bakka M. T.,1
-Dept. of Quantum Electronics and Non-linear Optics,1
-The Department of Anatomy,1
-Head of the department of Accounting and Audit,1
-Zhukovskii false  (Kharkiv Aviation Institute),1
 Zhytomyr Military Institute n.a. S.P. Korolyov,1
 National Aviation,1
 Strategic Market Intelligence Department,1
@@ -3036,11 +2713,6 @@ CIT Department,1
 Space Research of National Academy of Sciences of Ukraine,1
 National Center of Space Facilities Control and Test of State Space Agency of Ukraine,1
 Ukrainian State University of Railway,1
-Department on Molecular Structure and Chemoinformatics,1
-A. V. Bogatsky Physico-Chemical Institute,1
-Taras Shevchenko National University of Kiyv,1
-Institute of Software Systems NAS Ukraine,1
-false  "Kharkiv Polytechnic Institute,1
 Department of the Theoretical Radiophysics,1
 Center for Cybernetics,1
 Institute of Solid State Physics and Chemistry,1
@@ -3066,16 +2738,6 @@ Department of Ecology and Environment Protection,1
 Medical Radiophysics Department,1
 'Teleoptic' PRA' Ltd Kiev,1
 Department of Free Boundary Flows,1
-Kiev National Taras Schevchenko University,1
-Department of Mining named after prof. Bakka M. T,1
-""ֲ"""""""" """""""" "Ͳ"""""""" """Ͳ "."."""""""""",1
-""""""",1
-Institute for Safety Problems NPP,1
-BWT Group,1
-""""""""" """" """""""-""""""""""" """""""" """""""""""" """"""""""""""" """""""""" """"""""" """"""""""""""" """"""""""""",1
-Semenenko Institute of Geochemistry,1
-false  "Kharkiv Polytechnic Institute",1
-State Higher Educational Institution false ,1
 Usikov Institute for Radio Physics and Electronics,1
 Medical Research Center Veritas,1
 Volodymyr Dahl East Ukraine National University,1
@@ -3093,15 +2755,6 @@ Ukrainian Academy of Customs,1
 Department Automation of Production Processes National Metallurgical Academy of Ukraine,1
 Computer Networks and Systems Department,1
 "Institute of Astronomy,V.N. Karazin National University",1
-Department of General Scientific Disciplines,1
-Institute of Mathematical Machines & Systems Problems NAS of Ukraine,1
-Centre of Monitoring Studies and Environmental Technologies - "Ecomonitor" LLC,1
-Ukrainian Center of Environmental & Water Projects,1
-Ukraine International Airlines,1
-International Research and Training Center for Information Technologies and Systems NASU and MESU,1
-Department of Germanic and Finno-Ugric Philology,1
-Department of Ukrainian and Foreign Languages,1
-Department of Technologic Systems Optimization,1
 Institute of Biology,1
 Department of Information Systems Chernivtsi,1
 Filatov Institute of Eye Disease and Tissue Therapy,1
@@ -3123,13 +2776,6 @@ Vyshniakivska str. 12a,1
 Poltava National Technical University named after Yurij Kondratyuk,1
 Department of Theoretical and Construction Mechanics,1
 Kharkiv University of Air Force,1
-Department of 'Heat-Gas-Water Supply,1
-Computer Technology,1
-Institute of Biology of South Seas,1
-Sevastopol University,1
-National Technical Univ. of Ukraine Kiev Polytechnic Inst,1
-Institute of Astronomy of the V. N. Karazin National University,1
-false  Kharkiv polytechnic institute,1
 Dnepropetrovsk State Agrarian and Economic University,1
 Dnipropetrovsk Regional Center of Hydrometeorology,1
 Dnipropetrovsk State Agrarian and Economic University,1
@@ -3143,11 +2789,6 @@ Dept of Information Security Tools,1
 Information Technology Publishing Department,1
 Vinnitsya University of Economy and Finance,1
 Kharkov National Medical University,1
-Kharkov National University of Radio Eletronics,1
-Vinnitsia National Technical University,1
-false  Kharkiv Polytechnic Institute 21,1
-A. N. Podgorny Institute for Mechanical Engineering Problems,1
-Problem Research Laboratory of ACS of the false ,1
 Sumy State Teacher"s Training University,1
 Institute of Ecology of the Carpathians NAS of Ukraine,1
 Space Research Institute of National,1
@@ -3159,17 +2800,10 @@ Kharkov,1
 State Higher Education Institution National Mining University,1
 Ukrainian Institute for Public Health Policy,1
 ICF International HIV/AIDS Alliance in Ukraine,1
-Ukranian Education Centre,1
-false  Name after N. E. Zhukovsky,1
-Physical Education and Sports Department,1
-Physical Education,1
 Mukachevo State University,1
 Kharkiv Representation of the General Customer's Office of the State Space Agency of Ukraine,1
 Andrushivka Astronomical Observatory,1
 Zaporizhya Institute of Economics and Information Technologies,1
-Ukrmetrteststandart,1
-Odessa State Academy of technical regulation and quality,1
-IREX,1
 Central Research Institute of Armaments and Military Equipment of the Armed Forces of Ukraine,1
 Production-Research Association Teleoptic,1
 Department of Medical and Biological Research,1
@@ -3244,8 +2878,6 @@ National University Odesa Academy of Law,1
 Kharkiv University of Air Force Named I. Kozhedub,1
 Hetman Petro Sahaidachny National Army Academy,1
 Department of Design of Radio Engineering Systems of Aircraft,1
-Kyiv State Maritime Academy Named after Herman Petro Konashevych-Sahaydachnyi,1
-Control Systems Research Laboratory false ,1
 Azov State Technical University,1
 Institute of Problems of Cryobiology and Cryomedicine,1
 National Science Center Kharkov Institute of Physics and Technology,1
@@ -3280,18 +2912,10 @@ V. Ye. Lashkaryov Institute of Semiconductor Physics,1
 Department of Information and Communications Technology,1
 Odessa College of Computer Technologies,1
 Khmelnytskyi Gymnasium No. 2,1
-Igor Sikorsky Kyiv Polytechnical Institute,1
-Poltava Law Institute Of Yaroslav Mudriy National Law University,1
-Department of Zoology and Ecology,1
-State Institution of Higher Education false ,1
 Institute for Nuclear Safety Problems for Nuclear Power Plants,1
 State Central Enterprise for Radioactive Waste Management,1
 Kyiv National Economic University Named after Vadim Hetman,1
 Ukrainian State Air Traffic Services Enterprise (UkSATSE),1
-Math and Comp. Sci. School,1
-Kharkiv Petro Vasylenko National Technical,1
-Technical Cybernetics Department,1
-Institute of Food Resources,1
 Kharkiv Educ. and Sci. Institute of State Higher Educational Institution (SHEI) 'Banking University',1
 Geotechnics and Geomechanics Department,1
 Department of Applied Materials Science and Materials Engineering,1
@@ -3300,9 +2924,6 @@ Space Research Institute of NASU-NSAU,1
 Department of Navigation and Ship Management,1
 Department of Technical Systems and Control Processes in Navigation,1
 Polyakov Institute of Geotechnical Mechanics,1
-ONPU,1
-EPAM Systems,1
-""Sika Ukraina," LLC",1
 Kyiv National University of Building and Architecture,1
 Administrative Law Department,1
 Digital Health Expert Group,1
@@ -3311,457 +2932,6 @@ Department of Ecology and Biology,1
 Department of Food Biotechnology and Chemistry,1
 Department of Surgery #2,1
 Mine Surveying Geodesy and Geology Department,1
-Donbas State Technical University,1
-Institute of Information Diagnostic Systems,1
-Applied of Mathematics Department,1
-Research Institute for Intelligent Computer SystemsTernopil,1
-Department of Information Computer Systems and Control,1
-Information Control Systems and Technologies Department,1
-Computer Systhem and Technologies Department,1
-Tourism Department,1
-State Fund for Fundamental Research of Ukraine,1
-Vinnytsia National Technical Univ.,1
-State Enterprise 'Design Bureau' 'Yuzhnoye Named after M.K. Yangel',1
-State Establishment 'Dnipropetrovsk Medical Academy of Health Ministry of Ukraine',1
-Subbotin Institute of Geophysics. Nation. Acad. Sci. of Ukraine,1
-Research Center GEOMAGNET,1
-Faculty of Infocommunications,1
-Odesa National Economic University,1
-Computer System and Technologies Dep,1
-ESC Institute for Applied Systems Analysis NTUU KPI,1
-Analysis of the false ,1
-Lviv Br. of Dnipropetrovsk Natl. University of Railway Transport Named after Academician V. Lazaryan,1
-Lviv Research Institute of Forensic Expertise,1
-Dnipropetrovsk National University of Railway Transport Named after Academician V. Lazaryan,1
-Private Joint Stock Company Novokramatorsky Mashinostroitelny Zavod,1
-Aerospace Radio Electronics Systems Department,1
-Radio Physical Introscopy Dept.,1
-Odesa State Academia of Technical Regulation and Quality,1
-State Enterprise Ukrmetrteststandard,1
-Training-Research Centre for Radiation Safety of Kyiv National Taras Shevchenko University,1
-Department of PIT,1
-Informatics and Computer Technologies Department,1
-ABTO Software LLC,1
-Company DTEK ENERGY LLC,1
-IT-Jim,1
-false  kharkiv Polytechnic Institute,1
-false ,1
-ESC "Institute of Biology and Medicine",1
-Lesya Ukrainka East European National University,1
-Faculty of Humanities and Education,1
-Dept of Therapeutic Dentistry,1
-Aeronavigation Institute,1
-Department of Electronic Engeneering,1
-Dept. of Automated Control Systems,1
-Department of Electrophysical Methods of Nondestructive Testing,1
-Medical Informatics Department,1
-Product Engineering and Development,1
-Department of Intellectual and Information Systems,1
-Informatics and Computer Technologies,1
-Computer Engineering and Management,1
-Scientific Research Design and Technology,1
-System Engineering Department,1
-Department of System Engineering,1
-Molecular Biology and Biotechnology Department,1
-Hygiene and Ecology No.2 Department,1
-false  Kharkiv,1
-Control System Research Laboratory,1
-Faculty of Computer Sciences,1
-Dept. Applying Mathematics,1
-Dept. of Computer Science,1
-Department of Automation and Computer Technology,1
-Kazimierz Pulaski University of Technology and Humanities in Radom Radom,1
-Department of Forest and Garden,1
-KROK University of Economics and Law,1
-Kharkiv National University of Civil Engineering And Architecture,1
-Department of Entrepreneurship and Trade,1
-Scientific and Methodological Center for Ecological Safety,1
-Kremenchuk Mykhailo Ostrogradskyi National University,1
-false  "Kiev Polytechnic Institute",1
-Intelligent Computer Systems,1
-Applied Mathematics Dept.,1
-Department of Computer-Integrated Technologies and Metrology,1
-Department of Systems Analysis,1
-Department of Pharmacy,1
-Department of Theoretical Radiophysics,1
-Institute of Telecommunications and Global Information,1
-Department of Electrical Engineering and Mechatronics,1
-Department of Surface Strengthening of Structural Materials,1
-Intelligent Information Systems Dept.,1
-Department of Pathological Anatomy with Section Course and Forensic medicine,1
-Aircraft Radio Electronic System Design Department,1
-Scientific Center for Medical and Biotechnical Research,1
-Instrumentation Department,1
-SCS Department,1
-false  'Kyiv Polytechnic Institute',1
-Scientific Research,1
-Department of Radioelectronic Devices and Systems,1
-Department of Informatics and Applied Mathematics,1
-Department of the Automation,1
-International Management and Marketing Department,1
-Department of Radioneurosurgery,1
-National Cancer Registry of Ukraine,1
-Tissue Culture Laboratory,1
-Institute of Solid State Physics,1
-High Education Institute Tutkovsky Institute,1
-Automation and CIT,1
-Melitopol State Pedagogical University named after Bohdan Khmelnytskyi,1
-false  and V. M. Glushkov Institute of Cybernetics,1
-IOHK,1
-Department of Theoretical and Applied Computer Science,1
-Scientific research unit,1
-Department of Pediatrics Anesthesiology and Intensive Therapy,1
-Department for Nonlinear Dynamics of Electronic Systems,1
-Institute of Colloid Chemistry and Chemistry of Water,1
-National V. Karazin University,1
-I. Kozhedub Kharkiv National Air Force University,1
-University "IT Step Academy",1
-Vinnytsia National Medical,1
-Sahaidachnyi National Academy of Land Forces,1
-Department of Lnformation Technology,1
-Department of Biotechnology,1
-Department of Instrumentation,1
-Department of automation and computer-integrated technologies named after prof. B. B. Samotokin,1
-NTU KhPI,1
-Department of Network and Internet Technologies,1
-Department of Information Technology Designing and Applied Mathematics,1
-Department of Information Control Systems,1
-Head of the Translation Department National Mining Univer-sity,1
-Department of Mechanics and Mathematics,1
-Kharkiv National University of Radio-Electronics,1
-Uzghorod National Univesity,1
-"false  "Igor Sikorsky Kyiv Polytechnic Institute,"",1
-Kharkiv University of Radioelectronics,1
-Department of Physics of Energy Systems,1
-Department of Neuro-Oncology,1
-Social Communication Department,1
-Linguistic Department,1
-Department Commodity Science,1
-Higher State Education Institution of Ukraine "Bukovinian State Medical University",1
-Institute of Bioorganic Chemistry and Petrochemistry of the National Academy of Sciences of Ukraine,1
-Department of Astrophysics,1
-Group of Systems Biology,1
-Institute of Ferrous Metallurgy,1
-Dneprovskiy Metallurgical Combine (DMKD),1
-EOS,1
-Science Department of Military,1
-Mathematics,1
-Computer mathematics and information security,1
-Dnipropetrovsk National,1
-V. Stefanyk Precarpathian National University,1
-Department of Information-communication Technologies,1
-Department of Automatic Control and Information Technology,1
-E.O. Paton Electric Welding Institute,1
-CIT dept.,1
-National Forestry and Wood Technology University of Ukraine,1
-Ukrainian Graphic Arts Academy,1
-Institute of Water Problems and Land Reclamation,1
-Electronic Devices Department,1
-Informational and Measuring Technologies of Electronics and Engineering Department,1
-Publishing Information Technologies Department,1
-Institute for Applied System Analysis NTUU "Igor Sikorsky Kyiv Polytechnic Institute",1
-Combat use of ASC department,1
-Department of Finances,1
-Computer System Institute,1
-Department of Mathematics and Computer Software,1
-Department of Cosmetology and Aromalogy,1
-Department of the 'Economic',1
-Center of Strategic Research Eco-bio-technical Systems,1
-Intelligent Computer Systems Department,1
-PIT Department,1
-National Mining Univ,1
-Oles Gonchar Dnipro National Univ,1
-Department of Business Economics,1
-Institute of Transport Systems and Technologies of National Academy of Sciences of Ukraine,1
-Physico-Chemical Institute,1
-Department of Computer Technique,1
-Makarenko Sumy State Pedagogical University,1
-Department of Physico-Chemistry of Carbon Nanomaterials,1
-Laboratory of Chemistry and Technology of Disperse Superhard Materials,1
-Department of Ecology and Plant Polymer Technologies,1
-Management and Marketing Department,1
-Chemistry Department,1
-Department of Industrial Heat Power Engineering,1
-Geobotany and Ecology Department,1
-Gravimetrical Observatory,1
-Marzeev Institute for Public Health,1
-Ukrainian Center for Disease Control and Monitoring,1
-Institute of Astronomy of V. N. Karazin National University,1
-Inst. for Appl. Syst. Anal. of the Natl. Tech. Univ. of Ukraine Igor Sikorsky Kyiv Polytech. Inst.,1
-Kharkov State Academy of Physical Culture,1
-Mykhailo Kotsyubynskyi Vinnitsa State Pedagogical University,1
-National University of Physical Education and Sports of UKRAINE,1
-Kharkiv National Pedagogical University,1
-Basic Design of Mechanisms and Machinery Department,1
-Szkocka Research Group,1
-Department of Software Tools Zaporizhzhya National Technical University,1
-Department of 'Mine aerology and Labor Protection',1
-Crimean Branch of the Institute of Archaeology,1
-Self-Employed IT Professional,1
-Railway Hospital Darnica,1
-World Bank,1
-V. M. Glushkov Institute of Cybernetics of the National Academy of Science of Ukraine,1
-Department of Library Science of Bibliography,1
-Scientific Research Institute Astronomical Observatory,1
-Scientific Research Institute Nikolaev Astronomical Observatory,1
-Scientific Research Institute Crimean Astronomical Observatory,1
-Scientific Research Institute of Astronomy,1
-Lviv PolytechnicNational University,1
-Kharkiv National University of Radio and Electronics,1
-Scientific and Technical Center of Radio-Electronic Medical Equipment and Technologies,1
-Faculty of Computer Information Technologies,1
-Petro Sahaydachnyi Army Academy,1
-CAD Dept.,1
-A. A. Shalimov National Institute of Surgery and Transplantology,1
-Laser and Optoelectronic Technique Department,1
-Institute of Teleccommunications,1
-Kharkiv National University of Radioelektronics,1
-Odessa State Academy of Refrigeration,1
-Kharkov Air Force University,1
-TCS Department,1
-Physico-Mechanical Institute of the NAS of Ukraine,1
-Odessa National Academy of Telecommunications,1
-Institute of Physics NAS of Ukraine,1
-Yuriy Fedkovych National University,1
-Precarpathian National University,1
-Dniepropetrovsk National University,1
-D. K. Zabolotny Institute of Microbiology and Virology,1
-Energomashspetsstal (EMSS) Company,1
-false  Kyiv Polytechnical Institute,1
-Oles Honchar Dnepropetrovsk National University,1
-Dept. of General Physiology of the Nervous System,1
-Laser and Optoelectronics Department,1
-Institute of Chemical Technology,1
-S. I. Georgievsky Crimea State Medical University,1
-Zhukovskii false ,1
-Marine Hydrophysical Institute of the Ukrainian Academy of Sciences,1
-Marine Branch of the Ukrainian Scientific-Research Hydrometeorological Institute,1
-ChemBio Center,1
-Donetsk Institute for Physics and Engineering of the NAS of Ukraine,1
-Mcchnikov Odessa National University,1
-Kiev University of Ukraine,1
-Qafqas University of Azerbaijan,1
-Research Institute of Physics,1
-Academy of Fire Safety,1
-Institute of Mechanics,1
-Otava,1
-Ukrainian National Metallurgical Academy,1
-Institute of Physics of NAS Ukraine,1
-Photonics Lab.,1
-Ukrainian Centre of Environmental and Water Projects,1
-Ukrainian Center for Environmental and Water Projects (UCEWP),1
-Ukrainian Radiation Protection Institute,1
-Institute of Program Systems,1
-Institute of Applied System Analysis,1
-Department of Geology,1
-Ukrainian Research Hydrometeorological Institute,1
-Faculty of Applied Mathematics and Computer Science,1
-Azovstal Metallurgical Combine,1
-Medical Center Medivin,1
-Institute of Ecological Economics,1
-Precarpathian National Vasyl Stefanyk University,1
-South Ukrainian National Pedagogical University,1
-JSC,1
-Department of High and Applied Mathematics,1
-Academy of Science. Kiev,1
-false  Named after N.Ye. Zhykovsky (KhAI),1
-Kryvyi Rig National University,1
-Prydniprovsk State Academy of Civil Engineering and Architecture,1
-OJSC Yenakiyevskiy Iron and Steel Works,1
-Pryazovskiy State Technical University,1
-Department of Environmental Modeling,1
-Usikov's Institute of Radiophysics and Electronics,1
-Astronomical Institute of Kharkov,1
-Optical Eng. Dept.,1
-International Research,1
-Data Processing Center of Southwestern Railways,1
-Department of Pharmaco-Physiology,1
-Starfleet Academy,1
-Zaporozh'Ye State Medical University,1
-L'Vivs'ka Politekhnika National University,1
-TECHCOM GmbH in Ukraine,1
-Zaporozh'e State Medical University,1
-Radio Astronomy Institute,1
-Institute Molecular Biology and Genetics,1
-Taurida National University Named after V. I.,1
-Kurdyumov Institute for Metal Physics,1
-Odessa State University - OSENU,1
-Open Internatioanl University 'Ukraine,1
-Glushkov Cybernetics Institute of NASU,1
-International Research and Training Center for Information Technologies and System National,1
-Bohdan Khmelnytsky National University of Cherkassy,1
-NMetAU,1
-Ukrainian Institute of Agricultural Radiology,1
-DSMA,1
-Kharkov National University V.M. Karazina,1
-Private Joint-Stock Company,1
-State Higher Educational Institution Ukrainian State University of Chemical Engineering,1
-N.S. Poliakov Institute of Geotechnical Mechanics,1
-State Enterpise Ukrainan R and D Institute for Industrial Technology,1
-International Center of Astronomical,1
-Institute for Metal Physics NAS of Ukraine,1
-Kiev State University of Technology and Design,1
-Faculty of Applied Mathematics and Informatics,1
-Public Joint-Stock Company,1
-Scientific Research Institute of Mine-Rescue Work and Fire SafetyRespirator,1
-Frantsevich Institute for Problems of Materials Science of NASU,1
-Volodymyr Dal' East Ukrainian National University,1
-Nekrasov Institute for Ferrous Metallurgy,1
-Research Center for Radiation Medicine,1
-Regional Oncology Clinic,1
-Department of Genomics and Immunology,1
-Institute of Applied Mathematics and Mechanics of NAS of Ukraine,1
-State Economic and Technologies Transport University,1
-State Key Laboratory for Molecular and Cellular Biology,1
-ZAO Zaporozhskiy Zhelezorudny Kombinat,1
-National Radioelectronics University,1
-Dal' East-Ukrainian National University,1
-Institute of the Ionosphere,1
-Institute of Organic Chemistry National Academy of Sciences of Ukraine,1
-Dnepropetrovsk National University of Railway Transport,1
-PSTU,1
-Department of Laser Optics and Optoelectronics,1
-Optic and Spectroscopy Department,1
-State Enterprise Kirovgeologiya,1
-CHDTU,1
-Computer Science Faculty,1
-Center of Mathematical Modeling,1
-L'viv College of State University of Informational and Communicational Technologies,1
-Department of Molecular Biophysics,1
-Physicotechnical Institute of the false ,1
-State Workshop Science Research Institute Helii,1
-Pirogov National Medical University,1
-Institute of Information Recording Problems,1
-B. Verkin Institute for Low temperature Physics and Engineering,1
-Black Sea Branch of Moscow State University,1
-L'Vov Commercial Academy,1
-NTU khar'Kov Polytechnic Institute,1
-Institute for Metal Physics,1
-Astronomical Observatory of the false ,1
-Kharkiv National University of Radioelectronics (KhNURE),1
-Geophysical Institute of the National Academy of Sciences of Ukraine,1
-Department of Physical Chemistry of Combustible Fossils,1
-Southern Scientific-Research Institute of Marine Fishery and Oceanography,1
-I. I. Mechnikov Odesa National University,1
-All-Ukraine State Sci. and Prod. Ctr. for Standardization,1
-Institute of Applied Problems of Mechanics and Mathematics,1
-Dnepropetrovsk State Medical Academy,1
-Southern Filial of Ukraine National University of Bioresources and Environmental Management,1
-School of Engineering,1
-V. M. Glushkov Cybernetics Institute,1
-Institute of Innovative and Postgraduate Education (IIPE),1
-Institute of Technical Thermophysics,1
-Research and Design Institute Molniya,1
-Institute of Molecular Biology and Genetics of NAS of Ukraine,1
-I.N. Frantsevich Institute for Problems of Materials Science,1
-Usikov Institute for Radio-Physics and Electronics,1
-Kharkov National University of Radio Engineering and Electronics,1
-B.I. Verkin Institute for Low Temperature Physics and Engineering,1
-Kharkov Institute of Physics and Technology,1
-Space Research Institute of NASU and NSAU,1
-Astronomical Observatory of Taras Shevchenko Kyiv National University,1
-Department of Astronomy,1
-Department of Probability Theory,1
-Rivne Diagnostic Center,1
-Zaporozhe State University,1
-Ministry of Education of Ukraine,1
-International Center for Astronomical and Medicoecological Research,1
-V. I. Vernadskii Institute of General and Inorganic Chemistry,1
-Glushkov Institute for Cybernetics,1
-International Research and Training Center IT and Systems,1
-Kharkov University of Aircraft,1
-Kyiv false ,1
-Dept. Informatics,1
-Dept. Medical Informatic Systems,1
-Dept. Sensors and Technologies for Non-contact Diagnostics,1
-CAD/CAM Department,1
-Ternopil National Technical University,1
-Ukraine Research Institute of Telecommunications,1
-Military Institute of Telecommunications and Information Technology,1
-Kharkov University of Aircraft of the Name of Ivan Kozheduba,1
-Department of Information-Telecommunication Networks,1
-NTUU KPI,1
-Karpenko Physics-Mechanics,1
-A.Ya.Usikov Institute of Radio Physics and Electronics,1
-Paton Institute,1
-Vladimir Dal' East-Ukrainian National University,1
-State Metallurgical Academy of Ukraine,1
-Laboratory of Endocrinology,1
-Research-and-Production Corporation Radiy,1
-Representative of Meierton Refractories,1
-Department of Synergetics,1
-Kyiv Economics Institute (KEI),1
-Kyiv School of Economics (KSE),1
-Ukrainian Academy of Science,1
-Dedicated Computer System Department,1
-Oles' Gonchar Dnepropetrovsk National University,1
-Institute for Problems in Materials Science of the National Academy of Sciences of Ukraine,1
-false  - Kiev Polytechnic University,1
-L. M. Litvinenko Institute of Physical Organic and Coal Chemistry,1
-Yurii Fed'kovych Chernivtsi National University,1
-V. G. Lashkaryov Institute of Semiconductor Physics,1
-Odessa Astronomical Observatory,1
-Institute of Applied Problems in Physics and Biophysics,1
-Postgraduate of State Economy and Technology,1
-Kremenchuk Institute at Dnepropetrovsk University of Economics and Law,1
-PT Pertamina Hulu Energi,1
-Dept. of BME,1
-Lviv Polytechnic,1
-Karpenko Physical-Mechanical Institute of NAS of Ukraine,1
-Department of General and Molecular Pathophysiology,1
-Severodonets'Kyi NDIKhIMMASh Open Joint-Stock Company,1
-Technological Institute of the Dal East-Ukrainian University,1
-Dpt. of Informatics in Robotics,1
-Luts'k National Technical University,1
-N. E. Zhukovskii false  (KhAI),1
-Laboratory of Mathematical Modelling of Aging Processes,1
-Institute for Applied Problems of Mechanics and Mathematics,1
-Institute of Microbiology and Virology,1
-Department of Design of Aircraft Radio-Electronic Systems,1
-DK UkrtransgazOperative Management of Gas Mains and Gas-Distribution Systems,1
-Odessa National Marine University,1
-Kharkov Polytechnic Institute,1
-Pirogov Vinnitsa State Medical University,1
-Kiev Polytechnical Institute (National Technical University),1
-B.Verkin Institute for Low Temperature Physics and Engineering,1
-Department of Combinatorial Chemistry,1
-Chernivtsi Branch of Ya. S. Pidstryhach Institute of Applied Problems of Mechanics and Mathematics,1
-Komissarenko Institute of Endocrinology and Metabolism,1
-Board of Education of the Vinnytsya Regional State Administration,1
-Zhytomir State University,1
-Institute of Linguistics NAS of Ukraine,1
-NII (Scientific Research Institute) Crimean Astrophysical Observatory and Taurida National,1
-NII Crimean Astrophysical Observatory,1
-NPF Marlin-Yug Ltd.,1
-Institute of Endocrinology and Metabolism,1
-Institute of Bioorganic Chemistry and Petroleum Chemistry,1
-MMAS Department,1
-International Center for Astronomical and Medico-Ecological Research,1
-Vinnitsa State Agrarian Univ.,1
-Institute for Physics,1
-Astronomical Observatory of Kyiv National Taras Shevchenko University,1
-B. Verkin Institute for Low Temperature Physics and Engineering,1
-International Center for Electronic Materials Science and Applied Problems of Aerospace Technology,1
-Institute of Materials,1
-Solid State Microelectronics Laboratory,1
-Department of Computer-Aided Management Systems,1
-Research and Training Center of Information Technologies,1
-Dept 504,1
-Laboratory of Biophysics of Ion Channels,1
-false  - Kiev Polytechnic Institute (NTUU KPI),1
-Taras Schevchenko National University of Kiev,1
-Taras Shevchenko National Kyiv University,1
-Department of Nuclear and Medical Physics,1
-Kharkiv 61072,1
-5,1
-Institute of Zoology,1
-false  Named by N.Y. Zhukovsky,1
-Institute of Biocolloidal Chemistry,1
-F.D. Institute of Biocolloidal Chemistry,1
-Institute of Child and Adolescent Health,1
-Ukrgrafit PAO,1
-PJSC Dneprospetsstal (DSS),1
-false  'Kharkov Aviation Institute',1
 Institute of Pharmacology and Toxicology,1
 Heat-and-Power Engineering Department,1
 Institute of Biocolloidal Chemistry Named after F.D. Ovcharenko,1
@@ -3807,204 +2977,6 @@ Yaroslav the Wise National Law University,1
 Pulyui Ternopil'National Technical University,1
 Department of Physics of the Earth,1
 Institute of Special Communication and Information Security,1
-Kyiv National University of Constuction and Archtecture,1
-International Scientific Training Centers of Information Technologies and Systems,1
-Space Research Institute of NASU-SSAU,1
-NADRA Concern,1
-Institute of Geophysics (IGP),1
-O.V. Bogatsky Physico-Chemical Institute NAS of Ukraine,1
-Inst. for Problems of Cryobiology and Cryomedicine of the National Academy of Sciences of Ukraine,1
-National University 'Lviv Polytechnics',1
-Optics and Publishing Dept.,1
-Institute of Mathematical Machines and System Problems NANU,1
-Satelliz,1
-Information Technologies,1
-Kryvorizkiy National University,1
-State Scientific Research Forensic Centre of the Ministry of Internal Affairs of Ukraine,1
-Plasma Laboratory,1
-Companies Tvis Ltd,1
-Scientific Centre for Aerospace Research of Earth(CASRE),1
-Faculty of Chemistry,1
-Institute for Nuclear Research of NAS Ukraine,1
-Project Management Department,1
-National Technical University of the Ukraine "Kiev Polytechnic Institute",1
-Institute of Mechanical Engineering,1
-Dnepropetrovsk National University of Railway Transport Named after Academician V. Lazaryan,1
-IPM NASU,1
-Agrarian College of Management and Law,1
-State company 'Ukrmetrteststandart',1
-Odessa State Academy of Technical Regulation and Quality,1
-false /Lenina14,1
-Department of Environmental Modelling,1
-Computer networks and installations department,1
-Lashkaryov Institute of Semiconductor Physics,1
-International Research and Training Centre of Informational Technologies and Systems of National Academy of Sciences of Ukraine,1
-"Dnepropetrovsk Geophysical Expedition "Dneprogeofizika,"",1
-Department of Control System Design,1
-SE Naukanaftogaz,1
-Mechanics Department,1
-VNIIgeosystem,1
-Carpathian Branch of S. I. Subbotin,1
-S. I. Subbotin Institute of Geophysics of NAS of Ukraine,1
-Department Computer Science,1
-UkrNIMI NAN Ukraine,1
-NSC,1
-Ukrnafta PJSC,1
-Hydroacoustic Branch of Marine Hydrophysical Institute of NASU,1
-Metal forming department,1
-University Plasma Laboratory,1
-Scientific Centre,1
-Department of Radio Electronic Devices and Systems,1
-Institute of Semiconductor Physics NAS of Ukraine,1
-Artificial Intelligence,1
-URAN Association,1
-BITP NASU,1
-Dept. Physics,1
-SE National Institute of Cardiovascular Surgery Named after N.M. Amosov NAMS of Ukraine,1
-National Medical University Named after A.A. Bogomolets,1
-'Teleoptic' PRA' Ltd,1
-Department of radiowave propagation in natural media,1
-V. E. Lashkaryov Institute of Semiconductor Physics,1
-Nikolaev Astronomical Observatory Scientific Research Institute,1
-Department of Cryptogamic Plants and Fungi,1
-Department of health and environmental safety,1
-Wooden and plastic constructions department,1
-Engineering management and technology and occupation safety department,1
-G.S. Skovoroda Kharkiv National Pedagogical University,1
-Uzhgorod University,1
-International Center of Molecular Physiology,1
-Main Astronomical Observatory of National Academy of Science of Ukraine,1
-Agroecological Institute,1
-Ukrainian Hydrometeorological Research Institute,1
-Marine Climate Research,1
-Department for Methods of Analyses of the Inorganic Materials,1
-Institute of Semiconductor Physics NASU,1
-Marine Hydrological Institute of the National Academy of Sciences,1
-Soil Science and Ecology Department,1
-Dnipropetrovsk Hydrometeorological Center,1
-National University of Water Management and Natural Resources Use,1
-State Enterprise for A Special Instrumentation 'Arsenal',1
-Geological Expedition,1
-Department for Computer Science,1
-YUZHNOYE Design Office,1
-Navigation and Geodesic Center,1
-A.Ya. Usikov Inst. for Radiophysics and Electronics of the Natl. Academy of Sciences of Ukraine 12,1
-Leica Geosystems AG,1
-Laser Technology Research Institute,1
-National University Lviv Polytechnic,1
-Hlushkov Institute of Cybernetics,1
-Asfonomical Institute of Kharkov VN. Karazin Notional University,1
-Ivan Franko National University of L'viv,1
-L'viv Polytechnic National University,1
-Schmalhauzen Institute of Zoology,1
-Department of Nonstationary Vibrations,1
-National University of Ukraine,1
-Rivne Oncological Regional Hospital,1
-Advisory and Research CompanyDVS Ltd.,1
-Institute for Hydraulic Engineering and Land Reclamation Ukrainian Academy of Sciences,1
-Institute of Radioastronomy,1
-Agency of Industrial Marketing,1
-Kalmykov Center for Radiophysical Sensing of the Earth,1
-D.F. Chebotarev State Institute of Gerontology,1
-WebCenter of the false ,1
-Ukrainian Engineering-Pedagogical Academy,1
-Preventive Archaeology Service,1
-Paton Electric Welding Institute,1
-Institute of Mathematics National Academy of Science of Ukraine,1
-Institute of Mechanics National Academy of Science of Ukraine,1
-Department of Technology of Organic Materials,1
-Institute of Biocolloid Chemistry,1
-Department of Radiation Psychoneurology,1
-Public Joint Stock Company Shakhta im. A.F. Zasyadko,1
-Pulyui Ternopol National Technical University,1
-Department of Human Genomics,1
-Research Institute of Biology,1
-Kiev Polytechnic Institute National Technical University,1
-Shevchenko Lugansk National University,1
-Kiyv National Avionic University,1
-State Research Center Iceberg,1
-Cherkassy Regional Oncology Centre,1
-SE GIPROPROM,1
-UkrNIISpetstal,1
-JSC Electrometallurgical works Dneprospetsstal,1
-Computer College,1
-Training-research Center of Radiation Safety,1
-Production-Research Association 'Teleoptic',1
-Lazaryan National University of Railroad Transport,1
-Department of Inorganic and Physical Chemistry,1
-Nikolaev National University,1
-World Data Center Geoinformatics and Sustainable Development,1
-Danilevsky Institute of Endocrine Pathology Problems,1
-NTU Kharkov Polytechnic Institute,1
-Department of Parallel Computing Lab,1
-Engineer of ICC National,1
-Medical Radiophysics Dept.,1
-Department of Biophysics and Radiobiology,1
-Institute of Electrophysics and Radiational Technology,1
-Usikov's Institute for Radio-Physics and Electronics,1
-Department of Lichenology and Bryology,1
-KINR,1
-98409 Crimea,1
-Transient Technologies LLC,1
-Department of Descriptive Geometry and Computer Graphics,1
-Karpenko Physico-Mechanical Institute of NAS of Ukraine,1
-Management Information Systems Dept.,1
-Laboratory of Pharmacopoeial Analysis,1
-Department of Chemical Metrology,1
-Division of Health and Rehabilitation,1
-Division of Physiotherapy,1
-National Institute for Vine and Wine Magarach,1
-Kharkiv National University of Raio Electronics,1
-State Specialised Scientific and Production Enterprise,1
-I.I. Shmal'gauzen Institute of Zoology,1
-Institute of Hydrobiology,1
-Institute of the Biology of Southern Seas,1
-Institute of Cell Biology and Genetic Engineering NAS of Ukraine,1
-Institute of Cell Biology and Genetic Engineering,1
-Institute of Organic Chemistry of the NAS of Ukraine,1
-Experimental Physics Department,1
-Prima Development Group,1
-Kiev National University of Technologies and Design,1
-Institute of Semiconductor Physics National Academy of Sciences of Ukraine,1
-Department of Physics of Metals,1
-false  Named after N.E. Zhukovsky,1
-Institute of Semiconductor Physics National,1
-Kharkov National Highway and Automobile University,1
-Automation Department of Kharkov National Automobile and Highway University,1
-Aviation radio-electronic complexes department,1
-Aviation Radioelectronic Complexes Department,1
-State Institute of Gerontology,1
-Frantsevich Institute of Materials Science Problems,1
-false  (Polytechnical Institute),1
-Astronomical Institute of Kharkov V.N. Karazin National University,1
-Presidium of the National Academy of Sciences of Ukraine,1
-Crimean Institute of Information and Printing Technologies,1
-A. Usikov Institution of Radiophysics and Electronics of Ukraine Academy of Sciences,1
-Marine Hydrophysical Institute of Ukraine Academy of Sciences,1
-Kyiv T.Shevchenko Nat.University,1
-Inst.for Physics,1
-International Research and Training Center for Information Technologies and Systems of NAS,1
-Zaporozhye National Technical University,1
-Dniepropetrovsk National University of Railway Transport,1
-V. I. Vernadski Institute of General and Inorganic Chemistry,1
-Institute of Thermoelectricity of the National Academy of Sciences,1
-Institute of Physics of the National Academy of Sciences,1
-Physical Chemistry of Combustible Minerals Department,1
-Astronomical Observatory of Kiev,1
-Department of Physico-Chemistry of Combustible Minerals,1
-Donbass Fuel Energy Company,1
-Ministry of Coal Industry of Ukraine,1
-State Higher Education Institution "Priazovsky State Technical University",1
-Institute of Electric Welding E. O. Paton,1
-"L"vivs"ka Politekhnika National University,1
-V. F. Lashkaryov Institute of Semiconductor Physics,1
-Institute of Animal Science of,1
-Astronomical Observatory of Kyiv Shevchenko National University,1
-Research Institute 'Mykolaiv Astronomical Observatory' (RI 'MAO'),1
-Emergency Cardiology Department,1
-College of Engineering and Management of the false ,1
-National Defence University of Ukraine named after Cherniakhovskyi,1
-Department of Operational Work Management,1
 Department of Logistics Management and Traffic Safety in Transport,1
 Department Artificial Intelligence and Software,1
 Department of Philosophy and Sociology of the Luhansk Taras Shevchenko National University,1
@@ -4066,446 +3038,6 @@ Institute of Health Sciences,1
 Theory and Practice of Physical Culture and Sports Department,1
 Ivan Franko University,1
 Innovation and Information Technologies in Physical Culture and Sports Department,1
-"Communal Higher Education Institute ""Vinnytsia Academy of Continuous Education""",1
-Central Scientific Research Institute of the Army,1
-Crimean Engineering and Pedagogical University Named After Fevzi Yakubov,1
-Flight Academy,1
-Institute of Pedagogy,1
-L4 Collaboration,1
-Vinnitsa Pirogov National Medical University,1
-PJSC Zaporizhzhia Iron Ore Plant,1
-Department of Mathematical Modelling and Artificial Intellect,1
-Department of physics,1
-Department of automobile and transport infrastructure,1
-Department of Aircuaft Control Systems,1
-false  "Igor Sikorsky Kyiv Polytechnical Institute",1
-Kryvyi Rih Economic Institute of Kyiv National Economic University Named after Vadym Hetman,1
-Kyiv Electromechanical College,1
-Bienta Ltd.,1
-National Antarctic Scientific Centre of Ministry of Education and Science of Ukraine,1
-ESC Institute of Biology and Medicine,1
-Institute of Philology,1
-State Scientific Institution "Institute of education content modernization",1
-Department of Informatics and Information Systems Protection Management,1
-Department of Radio Engineering Device,1
-Faculty of Management and Technology,1
-IPP-Centre LLC,1
-Informatics false ,1
-Main Astronomical Observatory of the National Academy of Sciences,1
-University of Economics,1
-V.M. Glushkov Institute of Cybernetics NASU,1
-Kharkiv National University of Urban Economy,1
-Lviv Polytechnic National Universiy,1
-Department of Ecological Politics and Environment Protection Management,1
-Shevchenko National University of Kyiv,1
-NTU KPI Named by I. Sikorskii and IAPM.,1
-National University Named by Taras Shevchenko,1
-CDCMEGP Department,1
-National Taras Shevchenko,1
-Samsung R and D Institute Ukraine,1
-Nationa University,1
-Ternopil Ivan Pulu'j National Technical University,1
-false  Igor Sikorsky KPI,1
-G.V. Karpenko Physico-Mechanical Institute,1
-Chernivtsi Institute of Trade and Economics,1
-Ukrainian Engenering-Pedagogical Academy,1
-National Pedagogical University,1
-Gorgany Nature Reserve,1
-Nadvirna College by National Transport University,1
-Odessa National I. I. Mechnikov University,1
-"State Institution ""Scientific Centre for Aerospace Research of the Earth",1
-M. P. Semenenko Institute of Geochemistry,1
-"false  "Igor Sikorsky Kyiv Polytechnic Institute""",1
-Institute of Entrepreneurship "Strategy",1
-Ukrainian Research and Design Institute for Industrial Technology,1
-Scientific Research Company "Electron-Carat",1
-Pjsc Evraz Sukha Balka,1
-Department of Cinema and Television Arts,1
-Intellectual and Information Systems Department,1
-Softserve IT Academy,1
-Institute of Geophysics by S.I. Subbotin NAS of Ukraine,1
-false  Bohdan,1
-National University of Life and Environmental Sciences Ukraine,1
-Ivan Pul"uj Ternopil National Technical University,1
-false  'Kharkiv Aviation Institure',1
-Kharkiv National Air Force University Named after Ivan Kozhedub,1
-Natioanl University of Radio Electronics,1
-Aerospace Center NAU,1
-LPNU,1
-NTUU kPI I. Sikorsky,1
-TNTU I. Puluj,1
-'Teleoptika SPA' Ltd,1
-International Research and Training Center of IT and S,1
-Technologies Named by O.O. Zelensky National Aerospace Vyacheslav Shulgin University,1
-Public Agency "National Research Institute of Industrial Safety and Occupational Safety and Health",1
-Cytology,1
-Implantology of Kharkiv National Medical University,1
-State Scientific Institution 'Institute of Education Content Modernization',1
-O.S. Popov Odessa National Academy of Telecommunication,1
-A.A. Zelensky false ,1
-Kyiv zoological park of national importance,1
-Ukrainian HydroMeteorological Institute,1
-"1SI ""Institute of traumatology and orthopedics of the National Academy of Medical Sciences of Ukraine""",1
-2Regional Clinical Hospital,1
-Institute for the Problems of Safety of the Atomic Power Plant of the National Academy of Sciences of Ukraine,1
-Institute of Gas,1
-I. Sikorskii Kiev Polytechnic Institute,1
-Faculty for Infocommunications,1
-Institute of Transport Systems and Technologies of the National Academy of Sciences of Ukraine,1
-L.T. Mala National Institute of Therapy,1
-Kharkiv Interregional Specialized Medico-Genetic Center,1
-S.I. Subbotin Name Institute of Geophysics of NAS of Ukraine,1
-Eastern-European national University named after Lesya Ukrainka,1
-National Academy of Law Science of Ukraine,1
-Department of Multicultural Education,1
-Computer Systems and Networks,1
-Department of Automation and Information-Measuring Technique of,1
-Taras Shevchenko National Univeristy of Kyiv,1
-Faculty of Foreign Languages,1
-"Department ofWater Supply,Water Disposal and Drilling Engineering",1
-Kiev Scientific Research Forensic Center,1
-Vladimir Dahl East Ukrainian National University,1
-Mechanical Institute,1
-Educational and Scientific Institute of Automation,1
-Desna-S-LTD LLC,1
-Ferrexpo Group,1
-RPE Geoprom,1
-"""Zaporizhzhia Polytechnic"" National University",1
-Kharkov false  of Agriculture named after P. Vasilenko,1
-Kharkiv national Air Force University,1
-Department of Business,1
-"National University ""Chernihiv Polytechnic""",1
-Kharkiv Educational and Research Institute of the University of Banking,1
-Scientific-research center of missiletroopsand artillery,1
-SI "Institute of Blood Pathology and Transfusion Medicine of the National Academy of Medical Sciences of Ukraine",1
-Donetsk Law Institute of the Ministry of Internal Affairs of Ukraine (Kryvyi Rih),1
-Khmelnytsky University of Management and Law named after Leonid Yuzkov,1
-Institute of Geophysics by name S.Subbotin of the National Academy of Sciences of Ukraine,1
-Carpathian Branch,1
-Department of Electrical Engineering Systems,1
-National Agency of Ukraine for Civil Service in Vinnytsia,1
-Lviv State University of Physical Culture named after Ivan Bobersky,1
-Institute of Regional Research,1
-Institute of Laser and Optoelectronic Intelligent Manufacturing,1
-Viv Polytechnic National University,1
-Donetsk National University Named Vasyl Stus,1
-Computer Systems and Technologies Department,1
-Department of Higher Mathematics and Information Science,1
-Ivan Franko Drogobych State Pedagogical University,1
-State Institution Kundiiev,1
-Department of Automatics and Computer Integration Technologies,1
-National Agency for Higher Education Quality Assurance,1
-Departments Personnel Management and Labor Economics,1
-Sge Ukrgeofizyka,1
-Institute of Geological Sciences Nas of Ukraine,1
-Brovary Secondary School of I-III levels No. 1,1
-false  (NAU) and Care,1
-Centre for Aerospace Research of the Earth (CARE),1
-Center for Special Information Reception and Processing and Navigation Field Control,1
-Tripoli University,1
-Department of Analytical and Bioinorganic Chemistry and Water Quality,1
-Department of General,1
-Department of Applied Information Systems,1
-Department of Security Management of an Enterprise,1
-General Surgery Department,1
-Linguistically Education Center,1
-Department of Public Service and Management Educational and Social Institutions,1
-Department of Preschool and Primary Education,1
-Department of Oriental Languages and Translation,1
-Department of The Far East and Southeast Asia Languages and Literature,1
-Yuriy Fedkovych Chernivtsi State University,1
-State Ecological Academy of Postgraduate,1
-Engineering and Technological Institute "Biotechnica" National Academy of Agrarian Sciences,1
-State Enterprise Ukrchermetgeologiya,1
-Republican Academic R&D Institute of Mining Geology,1
-National University of Life and Environment Sciences of Sciences of Ukraine,1
-Faculty of Biology,1
-National University "Lvivska Politechnika",1
-Department of Internal Medicine No. 2,1
-Ukrainian Engineering-Pedagogics Academy,1
-Eosda,1
-Joint Stock Company 'Fed',1
-Department of Marine Electronics National University "Odessa Maritime Academy",1
-Department of Electrical Equipment and Automation of Ships National University "Odessa Maritime Academy",1
-Vinnytsia State Pedagogical University Named after M. Kotsiubynskyi,1
-Vinnitsa Scientific-Training Institute of Economics of Ternopil National Economical University,1
-Vinnytsia Natonal Technical University,1
-Institute of Applied Problems of Ecology Geophysics and Geochemistry,1
-Institute of Geophysics by S.I. Subbotin Name of National Academy of Sciences of Ukraine,1
-Department of Sea Geology and Sedimentary Oregenesis,1
-Bogolyubov Institute for Theoretical Physics of the Nas of Ukraine,1
-Educational and Scientific Department of Safety and Occupational Health,1
-School of Gis and Land Management,1
-Ukrainian Association of Ferroalloys Manufacturers (UkrFA),1
-DataRoot Labs,1
-National Academy of the State Border Guard Service of Ukraine Named after Bohdan Khmelnytskyi,1
-Department of Geodesy and Land Survey,1
-Department of Geoinformatics and Aerospace Research of the Earth,1
-NSC Institute for Soil Science and Argochemistry,1
-Scientific Research Institute of Intellectual Property,1
-Kryvyi Rih Geophysical Party,1
-Kyiv National University,1
-Cherkasy Institute of Fire Safety named after Chernobyl,1
-Department of Environmental Protection,1
-Institute of History of Ukraine,1
-Institute for Children and Adolescents Health Care,1
-Laboratory of Experimental Toxicology and Mutagenesis L.I. Medved"s Research Center of Preventive Toxicology,1
-Department of Biochemistry and Biotechnology,1
-Medical University,1
-Kharkiv Regional Laboratory Center of the,1
-Crimean Federal University,1
-National Mining University "Dnipro Polytechnic",1
-Uzhghorod National University,1
-Ferrexpo Poltava Mining,1
-Vinnytsia Mykhailo Kotsiubynsky State Pedagogical University,1
-Entrepreneurship and Business Administration Department,1
-Department of Economic Law and Procedure,1
-Department of Organizational Management,1
-Vernadsky National Library of Ukraine,1
-Department of Construction Objects Safety and Labor Protection,1
-Presidium" of the NAS of Ukraine,1
-The Machine Learning Laboratory,1
-INSTITUTION "V.P. KOMISARENKO INSTITUTE OF ENDOCRINOLOGY AND METABOLISM OF THE NATIONAL ACADEMY OF MEDICAL SCIENCES OF UKRAINE",1
-"HIGHER STATE EDUCATIONAL ESTABLISHMENT OF UKRAINE ""BUKOVINIAN STATE MEDICAL UNIVERSITY""",1
-VINNITSYA MEMORIAL PYROGOV NATIONAL MEDICAL UNIVERSITY,1
-I. HORBACHEVSKY TERNOPIL NATIONAL MEDICAL UNIVERSITY,1
-INTERNAL DISEASES,1
-COMPUTER TECHNOLOGY,1
-Department of Applied Material & Materials Processing,1
-Regula Forensics UA,1
-Academician F.H. Burchak Scientific and Research Institute of Private Law,1
-Department of Notary,1
-Department of Finance Law,1
-Department of Operational Management,1
-Department of Wagons and Carriage Facilities,1
-Kharkiv National Medical University of the Ministry of Education and Science of Ukraine,1
-"SI ""The Filatov Institute of Eye Diseases and Tissue Therapy of the NAMS of Ukraine",1
-Department of Economy and Regional Economic Politics,1
-Department of Ecology and Economy of Environment,1
-Department of Infectious Diseases,1
-National Defence University of Ukraine Named after Ivan Cherniakhovskyi,1
-Khatkiv National Air Force University,1
-Ivan Kozhedub Kharkiv National,1
-V O Sukhomlynskyi State Scientific and Pedagogical Library of Ukraine,1
-O Sukhomlynskyi State Scientific and Pedagogical Library of Ukraine,1
-National Academy of Internal Affairs of Ukraine,1
-National Academy of Fine Arts and Architecture,1
-Ukrainian Hydrometeorological Institute of SES of Ukraine and NAS of Ukraine,1
-Kharkiv Medical Academy of Post-Graduate Education,1
-Senior Teacher of the Department of Ivan Kozhedub Kharkiv National University of Air Force,1
-Kharkiv National University of Air Forces Named after I. Kozhedub,1
-Ivan Kozhedub Kharkiv National University of Air Force,1
-Samsung RandD Institute Ukraine (SRK),1
-Department of Aviation,1
-Department of Computer-Aided Management and Data Processing Systems,1
-Poltava Law Institute of Yaroslav Mudryi National Law University,1
-Laboratory for the Study of National Security Problems in the Field of Public Health of "cademician Stashis Scientific Research Institute for the Study of Crime Problems,1
-Department of International E-commerce,1
-Department of scientific and technical information,1
-V. Bakul Institute for Superhard Materials of the National Academy of Sciences of Ukraine,1
-Samsung Research and Development Institute Ukraine,1
-Department of Artificial Intelligent Systems,1
-Department of Information Technologies Security,1
-Department of Geography and Tourism,1
-Department of Private International and Comparative Law,1
-Head of the Department of Theory and Philosophy of Law,1
-Head of Department of Planning and Coordination of Legal Research in Ukraine,1
-V.M. Glushkov Institute of Cybernetics of,1
-national university of water and Environmental Engineering,1
-Department of Finance and Banking Pryazovskyi State Technical University,1
-Department of Economic Cybernetics false ,1
-Department of Economic Theory and Entrepreneurship,1
-Department of Economics of an Enterprise Pryazovskyi State Technical University,1
-Kharkiv National University of Radio,1
-Biochemistry Department,1
-Department of General and Social Psychology,1
-Department of System Analysis and Control Problems,1
-Department of Ship Power Plants,1
-Scientific Center of Information Protection,1
-Department of Navigation and Operation of Technical Systems on Water Transport,1
-Computer Science and Cybernetics Faculty,1
-I.N. Frantsevich Inst. of Prob. of Mat. Sci. of Natl. Acad. of Sci. of Ukraine,1
-Institute of Software Systems of the National Academy of Sciences of Ukraine,1
-National University Kyiv-Mohyla Academy,1
-Department of Environmental Law,1
-Institute of Plasma Physics,1
-Limited Liability Company Financial Company MAGNAT,1
-false  'Kharkiv polytechnic institute',1
-DataArt,1
-NTU 'Igor Sikorsky KPI',1
-IRR of NAS of Ukraine,1
-SRIIL of NALS of Ukraine,1
-Ukrainian lingua-information fund NAS of Ukraine,1
-Academician V. V. Stashis Scientific Research Institute for the Study of Crime Problems,1
-"National University ""Zaporizhzhia Polytechnic""",1
-Ukrainian state university of railway transport,1
-Department of Legal Proceedings,1
-Kiev National Linguistic University,1
-Department of Auto-Technical Expertise and Forensic Examination of Vehicles,1
-Department of Social Sciences and Humanities,1
-Department of National Security,1
-Department of Electric Stations and Systems,1
-International E-Commerce and Hotel and Restaurant Business Department,1
-Center of Information Support,1
-I. HORBACHEVSKYY TERNOPIL NATIONAL MEDICAL UNIVERSITY,1
-Skovoroda Kharkiv National Pedagogical University,1
-Institute of Law Taras,1
-Department of Sociological History and Theory,1
-Department of Social and Political Processes,1
-Kharkiv University of Radio Electronics,1
-Institute of Engineering Thermophysics,1
-National University "Zaporizhzhia polytechnic",1
-Department of Photon Processes,1
-National Transport University of Ukraine,1
-The Institute of Electrodynamics of the Nas of Ukraine,1
-Dahl East Ukrainian National University,1
-Department of Industrial Machinery Engineering,1
-Department of Automobile Transport,1
-Main Astronomical Observatory of the National Academy of Sciences of Ukraine (MAO NASU),1
-Department of Automation of Heat and Power Engineering Processes,1
-Department of Information and Cybersecurity Systems,1
-Institute of software systems of National Academy of Sciences,1
-Lviv Ivan Boberskiy State University of Physical Culture,1
-Donetsk Law Institute MIA of Ukraine,1
-Department of Reinforced Concrete Structures and Transport Facilities,1
-Department of Public Administration and Land Management,1
-doctor of technical sciences,1
-Department of specialized computer systems,1
-Institute of Education and Science in Power Engineering,1
-Department of Archaelogy and Ethnology of Ukraine,1
-South Ukrainian National Pedagogical University named after K. D. Ush"nsky,1
-Deputy Chief of Research Department,1
-Senior Researcher Research Department of Electronic Warfare Development Central Scientifically-Research Institute of Arming and Military Equipment of the Armed Forces of Ukraine,1
-Department of Physics and Radio Electronics Ivan Kozhedub Kharkiv National Air Force University,1
-Institute of Telecommunications and Global Information Space of National Academy of Sciences of Ukraine,1
-O. O. Chuiko In,1
-Department of Therapeutic Dentistry & Department of Pediatric Dentistry and Implantology,1
-Department of Theory of Wave Processes and Optical Diagnostic Systems,1
-State Institution " National Research Center for Radiation Medicine of the National Academy of Medical Sciences of Ukraine",1
-State Institution " Dnipropetrovsk Medical Academy of the Ministry of Health of Ukraine",1
-Scientificresearch Mining Institute of the "false ",1
-V. Hnatiuk Ternopil National Pedagogical University,1
-Department of Automation and Instrumentation,1
-Department of the electrical engineering and electromechanic,1
-Department of Calculating Mathematics and Mathematical Cybernetics Oles Honchar Dnipro National University Dnipro,1
-Department of humanitarian,1
-Research and Implementation Laboratory,1
-Department of State Pharmacopoeia of Ukraine,1
-Department of Validation and Reference Standards,1
-"LLC ""Chemical company"" Spoluka """,1
-Department of Pharmaceutical Chemistry,1
-State Institute for Designing Enterprises of Mining Industry "Kryvbasproekt" (SE SPI Kryvbasproekt,1
-PJSC Zaporizkyi Iron-Ore works,1
-Quantum,1
-Mirantis,1
-department of ship power plant exploitationAzov Maritime Institute,1
-GI V.T. Zaycev Kharkiv Research Institute of General and Emergency Surgery of NAMS of Ukraine,1
-Dynamics and Strength of Machines,1
-Department of Personnel Management and Labor Economics in Mariupol Institute,1
-Usikov Institute for Radiophysics and Electronics of Nasu,1
-Department Electrical Energy Supply,1
-Phytohormonology Department,1
-Si Filatov Institute of Eye Diseases and Tissue Therapy,1
-Vinnytsia Cooperative Institute,1
-Ternopil Regional Municipal Institute of Postgraduate Education,1
-National Dragomanov Pedagogical University,1
-"National Center ""junior Academy of Sciences of Ukraine""",1
-Center of Radioecological Monitoring Ltd.,1
-State Institution Ukrainian Research Institute of Industrial Medicine,1
-Department of Strength of Materials and Structural Mechanics,1
-"PO ""Institute for Local and Regional Development"",1
-Institute for Information Recording of the National Academy of Sciences,1
-State Institution "Public Health Center of the Ministry of Health of Ukraine",1
-Lesya Ukrainka Eastern European Nationa University,1
-State Higher Educational Institution "Pryazovskyi State Technical University",1
-Academy of Labour,1
-Laboratory of Analytical Chemistry and Monitoring of Toxic Substances State Institution "Kundiiev Institute of Occupational Health of the National Academy of Medical Sciences of Ukraine",1
-Mykhailo Ostrohradskyi National University,1
-ICAMER Observatory of NASU,1
-Department of Banking and Financial Services,1
-University of Life and Environment Sciences,1
-Dn"pro Un"vers"ty of Technology,1
-Department of Economics of Enterprise,1
-Applied Mathematics,1
-Global Information Space of Nasu,1
-Institute of Telecommunication and Global Information Space of Nasu,1
-Forest - Inform Ltd,1
-"Department of Labor protection and environment State Higher Educational Institution ""Pryazovskyi State Technical University",1
-"department of automobile transportState Higher Educational Institution "" Pryazovskyi State Technical University",1
-Department of Oncological Surgery,1
-International E-commerce and Hotel & Restaurant Business Department,1
-Department of Economics and Management of Industrial and Commercial Business,1
-Ecological College of Lviv,1
-Department of International E-Commerce and Hotel&Restaurant Business,1
-Tustan Site Museum,1
-V.O.Sukhomlynsky Mykolaiv National University,1
-International Research and Training Centre for Information Technologies and Systems of the Nasu,1
-Institute of Pediatrics,1
-Institute of Nuclear Medicine and Diagnostic Radiology of Nams of Ukraine,1
-Lesya Ukrainka Eastern Europen University,1
-Institute of Engineering Mechanics and Transport,1
-Mykolaiv National University,1
-National Scientific Center "M.D. Strazhesko Institute of Cardiology" of NAMS of Ukraine,1
-Crimean Astrophysical Observatory of Russian Academy of Sciences,1
-Pirogov National Medical University of Vinnytsia,1
-Stus National University of Donetsk,1
-European Law School,1
-Faculty of Law of the false ,1
-"NGO ""Back to Life""",1
-Department of International Law and Comparative Law of the false ,1
-Institute for Radiophysics and Electronics of the National Academy of Sciences of Ukraine,1
-O. Ya. Usikov Institute for Radiophysics and Electronics of the National Academy of Sciences of Ukraine,1
-SE "Ivchenko-Progress",1
-A. Pidgorny Institute of Mechanical Engineering Problems of the National Academy of Sciences of Ukraine,1
-Department of Radiation Therapy,1
-Radiation Pathology Group,1
-State Organization "Grigoriev Institute for medical Radiology and Oncology National Academy of Medical Sciences of Ukraine",1
-Department of Radio Engineering and Information Security,1
-Informatics and Systemology Department,1
-Institute of Computer Technologies,1
-"Department of automobile transport State Higher Educational Institution "" Pryazovskyi State Technical University",1
-National University yuri Kondratyuk Poltava Polytechnic,1
-Geography Department,1
-Institute of Sociology,1
-Endocrinology Department,1
-UA Med Helthcear Venchures Kinderklinik,1
-Vasyl Stefanyk Precarpation National University,1
-Department of Hygiene and Ecology No.1,1
-Regional Medical College,1
-SoftServe Inc,1
-"Geological service company GSC" LLC,1
-National University zaporizhzhia Polytechnic",1
-Institute for applied system analysis of Igor Sikorsky Kyiv Polytechnic Institute,1
-Lviv Polytecnic National University,1
-TernopilIvan Pul'uj National Technical University,1
-Department of Journalism and Mass Communication,1
-Head of Educational Laboratory of Department,1
-Command and Staff Institute for the Use of Troops (Forces),1
-Head of Department Department of Military Training,1
-Head of Department Department of Weapon,1
-Associate Professor Department of Information Systems and Technologies,1
-Institute of Information Technology,1
-Commander Air Force of Armed Forces of Ukraine,1
-Central Scientifically-Research Institute of Arming and Military Equipment,1
-Senior Researcher Scientific Center,1
-Dnipropetrovsk Branch,1
-L'Viv Polytechnic National University,1
-International e Commerce and Hotel Restaurant Business Department,1
-Odessa National University,1
-Rivne State University of the Humanities,1
-International Economic and Humanitarian University named after,1
-Department of marketing and business management,1
-Educational and Research Center of Strategic Communications in the sphere of National Security and Defense,1
-Konstantin Mamonov,1
-NPP "SPECPOZHTEHNIKA" Ltd,1
-false "Kharkiv Polytechnic Institute",1
-Institute for Condensed Matter Physics National Academy of Sciences of Ukraine,1
-Department of Electrical Engineering and Welding,1
-Department of Technologic Education,1
-Department of Automation Computer Science and Technologies,1
-VP volodarske PAT mine Named by O.F. Zasiadko,1
-Institute of Geotechnical Mechanics Named by N.,1
-Smoly State Enterprise,1
 VostGOK State Enterprise,1
 Eastern European Slavic University,1
 Finance and Financial and Economic Security Department,1
@@ -4529,465 +3061,3 @@ G. V. Kurdyumov Institute for Metal Physics,1
 Institute of Geotechnical Mechanics named by N. Polyakov of National Academy of Sciences of Ukraine,1
 Environmental Safety Department,1
 IT Academy 'STEP',1
-Ukraine National Paralympic Commitee,1
-Department of Engineering Mechanics (Weapons and Equipment of Military Engineering Forces),1
-National University of Shipbuilding Named after Admiral Makarov,1
-Institute for Applied Problems in Mechanics and Mathematics,1
-Space Research Institute of NAS and NSA of Ukraine,1
-O.Ya. Usikov Institute for Radiophysics and Electronics National Academy of Sciences of Ukraine,1
-D.F. Chebotarev Institute of Gerontology of NAMS of Ukraine,1
-Department of Emergency Medical Care,1
-Department of Information Measurement Technologies,1
-Department of International Economic Affairs,1
-Noosphere Ventures Inc.,1
-Faculty of RadioPhysics,1
-SI "Institute of Regional Research Named After M. I. Dolishniy of the NAS of Ukraine",1
-Carpathian Branch of S.I. Subbotin Institute of Geophysics,1
-Lviv Politechnic national University,1
-5-8,1
-IT Step University Lviv,1
-Management department,1
-Dept. of Computer Systems and networks,1
-Military Institute of Kyiv National Taras Shevchenko University,1
-Central Research Institute of the Armed Forces,1
-University of the State Fiscal Service,1
-Kherson National Technical Un"versity,1
-Tech StartUp School,1
-Kherson National Technical Uneversity,1
-Developments of Stratal Deposits Department,1
-Kremenchuk Mykhailo Ostrohradskiy National University,1
-Dnipropetrovsk Medical Academy,1
-Kryvyi Rih Economic Institute of Kyiv National Economic University,1
-Department of Economic Evaluation and Business Audit,1
-Department commodity end gemologic research,1
-Cherkasy Education Center,1
-Scientific-Technical Center Psychea,1
-Zaporozhzhia State Medical University,1
-East European University of Economics and Management,1
-Center for the reception and processing of special information and control of the navigation field,1
-National Institute for Strategic Studies,1
-Kharkov State University of Food Technology and Trade,1
-Classical Private University,1
-Department of Economics and Management,1
-Department of International Tourism,1
-Department of Management and Logistics,1
-Kryvyi Rih Economic Institute,1
-Inorganic Chemistry Department,1
-Dnipro Branch of State Institute of Ukrainian Soil Protection,1
-State Institution Scientific Centre for Aerospace Research,1
-Taras Schevchenko National University of Kyiv,1
-Scientific Centre for Aerospace Research,1
-Institute of Geodesy National University Lviv Polytechnic,1
-Department of Heat Power Engineering and Energy Saving Technologies,1
-Department of the Rolling stock and Track,1
-Department of Construction Industry,1
-Department of Orthopaedic Prosthodontics,1
-Department of Therapeutic Stomatology,1
-Department of Post-Graduate Training of Orthopedic Dentists,1
-Department of Information Multimedia Technologies,1
-Academy of Technological Sciences of Ukraine,1
-Ivano-Frankivsk Education and Research Institute of Management,1
-Discrete Analysis and Intelligent Systems Department,1
-Department of Computerized Automation Systems,1
-Borys Grinchenko Kyiv University BGKU,1
-Department of Manufacturing Engineering,1
-Lvov State University of Internal Affairs,1
-Department of Mine Surveying,1
-Department of Geo-engineering,1
-Department of Mining named after professor Bakka M. T.,1
-Department of Electrical and Electronic Apparatus,1
-G.E. Pukhov Institute for Modeling in Energy Engineering,1
-Computer Engineering and Programming,1
-International Transportation and Customs Controls Department,1
-Department of Computer-Aided Design,1
-Department of Computer Engineering and Programming Faculty of Computer and Information Technologies National Technical University "Kharkiv Polytechnic Institute",1
-Faculty of Information Technologies and Computer Engineering,1
-Department of Information Computer Technologies and Mathematics,1
-Economic Theory Department,1
-International Economic Relations Department,1
-Management and Public Administration Department,1
-Department of Clinical Endocrinology State Institution,1
-Department of Endocrinology and Pediatric Endocrinology,1
-"Dep. ""industrial and Biomedical Institute""",1
-Government Agency National Institute of Therapy,1
-Department of Information,1
-Department of Radio Engineering,1
-Department of Economic Modelling and Business Informatics,1
-Department of Economic Cybernetics and International Economics,1
-Department of Radio Engineering Devices and Systems,1
-Department for Information Computing Systems and Control,1
-Science Department,1
-"false  ""Kharkiv Polytechnic Institute"",1
-Department of Space Systems Applianceand Geoinformation Support,1
-Ivan Chernyakhovsky National Defense University of Ukraine,1
-Pukhov Institute of Modelling Problems in Power Engineering,1
-Enamine,1
-National Taras Shevchenko University of Kiev,1
-Department of Orientation and Navigation Instruments and Systems,1
-Department of Measuring Information Technologies,1
-Department of Ecology and Environmental Safety,1
-Faculty of Biomedical Engineering,1
-Information and Network Engineering,1
-Ukrainian Scientific-research and Design-prospecting Institute of Industrial Technology,1
-Institute of Irrigated Agriculture,1
-LLC 'SoftServe',1
-Dept of Mechanics and Mathematics,1
-Dept of Air Navigation Systems,1
-Tavria State Agrotechnological University,1
-"Institute of Special Communication and Information Protection of false  ""Igor Sikorsky Kyiv Polytechnic Institute",1
-G.E. Pukhov Institite for Modeling in Energy Engineering,1
-Central Research Institute of Armament and Military Equipment of Armed Forces of Ukraine,1
-Computer Science and Engineering Department,1
-O.M. Beketov National University,1
-Kovel Industrial and Economic College,1
-Department of Information and Communication Engineering,1
-Department of Software Engineering and Management Information Technologies,1
-Department of Research and Development Chemical Biological Protection,1
-Automatics and Robotics Technology Department,1
-Audiotechnics and Information Registration Department,1
-National Academy of Sciences of Ukraine NASU,1
-Information and Analytical Support Department,1
-Physics and Mathematics Faculty,1
-Institute of Automatics,1
-Samsung R and D Institute Ukraine (SRK),1
-Department of Economic Analysis,1
-Information and Diagnostic Systems Institute,1
-Dept. of Automated Control Systems Institute of Computer Science and Information Technologies,1
-Department of Economics of the State,1
-Department of Automated Control System,1
-Department of Computer Engineering TNEU,1
-Computer-Aided Design Department,1
-Social Communication and Information Activities Department,1
-Intellectual Computer Systems Department,1
-Science and Technical Library,1
-Institute of Mathematical Machines and Systems,1
-Automated Control Systems Deptatrment,1
-Information systems and networks department,1
-Department of Olympic and Professional Sport and Sport Games,1
-Department of Aesthetic Education,1
-Department of World History,1
-Department of Human Health and Correctional Education,1
-Department of Biomechanics and Metrology of Sport,1
-International Charitable Foundation Alliance for Public Health,1
-Institute of Bast Crops,1
-Educational and Scientific Complex "Institute of Applied Systems Analysis" - ESC "IASA",1
-Mathematics Department,1
-Department of Physics and Chemistry of Solid State,1
-UkrNIMI NAS of Ukraine,1
-Institute of Magnetism Under NAS and MES of Ukraine,1
-false  "KPI",1
-Faculty of Computer Information Systems and Software Engineering,1
-Avionic Department,1
-Aircraft Airworthiness Retaining Department,1
-National Army Academy Named after Hetman Petro Sahaidachnyi,1
-Institute of Information and Diagnostic Systems,1
-Rivne State Medical Center,1
-V.N. Karazin National University of Kharkov,1
-Donetsk National University of Vasyl Stus,1
-Department of Applied Mechanics and Technologies of Environmental Protection,1
-Department of logistics and Technical Support of Rescue Operations,1
-Zakhidnyi Buh Private Company,1
-Khmelnitskyi National University,1
-Chernivtsi Institute of Trade and Economics KNUTE,1
-Department of Computer Informational Technologies,1
-Department of Technology of Inorganic Substances and Ecology,1
-Department of Media Technologies and Publishing and Graphic Systems,1
-"Higher State Educational Establishment of Ukraine ""Bukovinian State Medical University""",1
-Department of Biophysics and Biochemistry,1
-Department of Economic Cybernetics and International Economic Relations,1
-Applied Math Dept,1
-Department of Ecology and Life Safety,1
-Informatics department,1
-Cybernetics department,1
-National TU Dnipro Polytechnic,1
-Scientific-research Center of Missile Troops and Artillery,1
-Dept. of Social Work,1
-Immunology And Pathophysiology Laboratory,1
-GIS and Land Management Faculty,1
-V. Danilevsky Institute for Endocrine Pathology Problems of the National Academy of Sciences of Ukraine,1
-Kharkov Medical Academy of Post-graduated Education,1
-Department of Mathematical Modeling and Optimal Design,1
-Department of Forensic Medicine,1
-Department of Correlation Optics,1
-Department of Optics and Publishing Business,1
-Space Research Institute of the National Academy of Sciences of Ukraine and State Space Agency of Ukraine,1
-false  "Kharkiv Politechnical Institute",1
-BICA Labs,1
-L.T. Mala National Institute of Therapy of NAMS of Ukraine,1
-Ukrainian Research Institute of Environmental Problems,1
-LLC "Positron GmbH",1
-Ukrainian scientific-research and design-prospecting Institute of industrial technology,1
-Academy of Advocacy,1
-Laboratory of Space Research,1
-Department of Informational and Analytical Activity and Information Security,1
-V.M. Glushkov Institute of Cybernetics of NAS of Ukraine,1
-M.I. Pyrohov National Medical University,1
-Institute of Physics of NASU,1
-PSME "Fotonika Plus",1
-Mariupol City Council,1
-Department of Pedagogy and Humanities,1
-State Research Institute of the Ministry of Internal Affairs of Ukraine,1
-Vinnytsia Humanitarian Pedagogical College,1
-Ukrainian Medical Stomatology Academy,1
-Vinnytsia Pirogov National Medical University,1
-Scientific Research Institute of Invalid Rehabilitation on the base of National Pirogov Memorial Medical University,1
-"L.T. Malaya Therapy Institute of the National Academy of Medical Science of Ukraine,",1
-Vinnytsya National Pirogov Memorial Medical University,1
-L.T. Mala National Institute of Therapy of the National Academy of Medical Sciences of,1
-Vinnytsia State Pedagogical University,1
-Department of Healthcare of Kyiv,1
-Skadovsk Central District Hospital,1
-International Research and Training Centre for Information Technologies and Systems of the NAS and MES,1
-Scientific and Practical Medical Center for Pediatric Cardiology and Cardiosurgery,1
-false  "Sikorsky Kyiv Polytechnic Institute",1
-V.E. Lashkaryov Institute of Semiconductor Physics NAS,1
-Civil Aviation Institute,1
-System Analysis Problems of Kiev National Taras Shevchenko University,1
-Department of Economics and Finance,1
-G. S. Kostiuk Institute of Psychology,1
-Control Systems Research Laboratory Kharkiv,1
-"avloTychyna Uman State Pedagogical University,1
-YuriyFedkovych Chernivtsi National University,1
-Prydniprovska State Academy of Physical Culture and Sports,1
-Corporate Finance and Controlling Department,1
-Institute of Industrial Economics of the,1
-Department of Economics of the NAS of Ukraine,1
-Informatio LTD,1
-Institute of Higher Education of the NAES of Ukraine,1
-Carpathian Department of Subbotin Institute of Geophysics,1
-Education and Research Institute of Energetics,1
-Physico-Technological Institute of Metals and Alloys of the National Academy of Sciences of Ukraine,1
-National University of Physical Education and Sports of Ukraine,1
-'Igor Sikorsky Kyiv Polytechnic Institute',1
-T. Shevchenko National University of Kyiv,1
-National University of Defense of Ukraine,1
-Central Scientifically-research Institute,1
-false  (Kharkiv Polytechnic Institute),1
-Institute for Evolutionary Ecology of the National Academy of Sciences of Ukraine,1
-Institute of Information Security of the National Security Service Academy of Ukraine,1
-Research Institute of Informatics and Law,1
-NTUU Igor Sikorsky Kyiv Polytechnic Institute,1
-National Technical Univ. of Ukraine,1
-ODS. ai,1
-Institute for Information Recording of Nas of Ukraine,1
-World Economy Department,1
-Department of Tourism and Recreation,1
-Department of Digital Economics and Systems Analysis,1
-Gorbachevsky Ternopol National Medical University,1
-Bogomolets National Medical University of the Ministry of Healthcare of Ukraine,1
-Department of Publishing InfoiwaJion Technologies,1
-O.Ya.Usikov Institute for Radiophysics and Electronics of NAS of Ukraine,1
-Artificial Intelligence department,1
-Department of Automated Systems Software,1
-Taras Shevchenko National University of "Chernihiv Collegium",1
-Department of Publishing Infonnation Technologies,1
-Department of shooting and technical sports,1
-Lab. of Virtual Environment for Scientific Research Organization No. 236,1
-Faculty of Informatics and Computer Engineering,1
-Department of Industrial Design and Computer Technologies,1
-Department of the Ukrainian Language,1
-Department of Combat and Special Physical Training,1
-Department of Public Service and Management of Educational and Social Institutions,1
-Hon. Prof. M.S. Bokarius Kharkiv Research Institute of Forensic Examinations,1
-Institute of Market Problems and Economic-Ecological Research,1
-Private Joint-Stock Company "Higher Education Institution "Interregional Academy of Personnel Management",1
-Donetsk,1
-O.M.Beketov National University of Urban Economy in Kharkiv,1
-Dnipro National University of Railway Transport named after Academician V.Lazaryan,1
-Institute of Petroleum Engineering,1
-Department of Physical Fundamentals of Fracture and Strength of Materials in Aggressive Environments,1
-MM "Pershotravneve",1
-Science Research Institute of Mining Problems of Academy of Engineering Sciences of Ukraine,1
-Geodesy Department,1
-General and Structural Geology Department,1
-Hydrogeology and Engineering Geology Department,1
-Geology and Mineral Exploration Department,1
-Department of Geobuilding and Mining Technologies,1
-Department of Electromechanics Equipment Productions,1
-Glushkov Institute of Cybernetics NASU Kyiv,1
-false  Vinnytsia,1
-Lesya Ukrainka Eastern,1
-Dahl" East Ukrainian National University,1
-Ministry of Defense of Ukraine,1
-Interregional Academy of Personal Management,1
-Scientifically Research Institute,1
-Kharkiv State University of Food Technology and Trade,1
-Spotlight Media Labs,1
-Main Astronomical Observatory NAS of Ukraine,1
-Head of Group of Clinical Cybernetics of Gluskov,1
-"State University ""uzhhorod National University""",1
-Institute of training of public employment service in Ukraine,1
-Research Institute of the Ministry of Defence of Ukraine,1
-Named after O.O. Zelensky false  Kharkov,1
-Equipment of the Armed Forces of Ukraine,1
-Department of Computer and Information Systems,1
-Department of Robotics and Specialized Computer Systems,1
-Ternopil I. Puluj National Technical University,1
-Department of Information-Communication Technologies named after O. O. Zelensky,1
-"Kharkiv University of Technology ""sTEP""",1
-Institute of Traumatology and Orthopedics,1
-AI-labs,1
-Department of Management and Entrepreneurship,1
-Department of management named after prof. Y. S. Zavadskyi,1
-Faculty of Infrastructure and Rolling Stock of Railways,1
-Computer Systems Analyst LLC 'NETKREKER,1
-Department of Telecommunication Technologies and Automation,1
-Department of Radiophysics,1
-Vice-Rector for Educational and Scientific Affairs,1
-Dept. of Programming and Mathematics,1
-Ostrohradskyi Kremenchuk National University,1
-The Public Militarized Mine-Rescue Service,1
-State Enterprise 'State Scientific Center of Drugs',1
-MM "Dniprovske",1
-Department of Management and Economics of Enterprise,1
-Pereiaslav-Khmelnytskyi Hryhorii Skovoroda State Pedagogical University 30,1
-Volodymyr Dahl East-Ukrainian National University,1
-Vinnytsia Mykhailo Kotsiubinsky State Pedagogical University,1
-Theoretical Physics Department,1
-Physical-Technical Center of the MES,1
-NAS Ukraine,1
-I. Kozhedub National Air Force University,1
-Dept. of Applying mathematics,1
-Institute for Soil Science and Agrochemistry Research Named after O.N. Sokolovsky,1
-Pedagogy and Psychology of Professional Education Department,1
-Institute of High Technologies Taras Shevchenko National University of,1
-"Institute for Applied System Analysis of the false  ""Igor Sikorsky Kyiv Polytechnic Institute""",1
-Faculty of Computer Systems and Communications,1
-Faculty of Information Security,1
-Faculty of Accounting,1
-Institute of Software systems of National Academy of Sciences of Ukraine,1
-Whirl Software,1
-Samsung RandD Institute,1
-University of Kyiv,1
-TarasShevchenko National University of Kyiv,1
-National University of Trade and Economics,1
-false s,1
-International Research and Training Center of Information Technologies and Systems of National Academy of Sciences of Ukraine,1
-Department of Public Relations and Journalism,1
-Department of Marketing and International Management,1
-PJSC "Donetsksteel" " Iron and Steel Works",1
-Project Management,1
-V.M.Glushkov Institute of Cybernetics,1
-Institute of AI Problems,1
-Department of Information and Computing Systems and Control,1
-Department of Economic Assessment and Business Audit,1
-Medical Biology and Genetics Department,1
-Biology Department,1
-Pediatrics and Medical Genetics Department,1
-Association Noosphere,1
-The Filatov Institute of Eye Diseases and Tissue Therapy of the National Academy of Medical Sciences of Ukraine,1
-Department of Mathematic,1
-Department of Mathematics and Methods of its Training,1
-Department of General Engineering,1
-Department of Mathematics and Computer Technologies,1
-Department of Automation and Control in Technical,1
-Department of Accounting and Control in Public Administration,1
-PJSC ArcelorMittal Kryvyi Rih,1
-Cherkasy Institute,1
-State Agrarian and Economic University,1
-Institute of Geotechnical Mechanics Named after M.S. Polyakov,1
-Department of Botany,1
-Central Research Institute of Weapons and Military Equipment of Ukraine's Armed Forces,1
-LvivSoft,1
-State Institution "Dnipropetrovsk Medical Academy of the Ministry of Health of Ukraine",1
-Department of project management,1
-Mathematic Department,1
-Department of Dynamics and Strength of Machines,1
-Laboratory of Certification Tests of Corrosion-resistant Insulation Coatings of Pipelines,1
-Space Radio Physics Department,1
-Department of Molecular and Medical Biophysics,1
-Department of Medical and Biological Physics and Medical Informatics,1
-ANAT Company,1
-Department of Technical Mechanics and Dynamics of Machines,1
-Kharkiv Educational and Scientific Institute,1
-Geoinformation Systems Department,1
-Institute of Telecommunication Systems National,1
-Department of Biotechnical Problems of Diagnostics,1
-Kharkov University of Humanities People's Ukrainian Academy,1
-Donetsk National University of Economics and Trade named after Mykhailo Tugan-Baranovsky,1
-Kryvyi Rih Metallurgical Institute of the National Metallurgical Academy of Ukraine,1
-Department of Biotechnical System,1
-Astronomical Observatory of Odessa National University,1
-Institute of Radio Astronomy of NAS of Ukraine,1
-Information Systems and Networks department,1
-Department of Photogrammetry and Geoinformatics,1
-V. Hnatiuk National Pedagogical University Department of Department of Arts and Design,1
-Lviv Polytech. Natl. Univ. Inst. of Architecture Department of Design and Fundamental Architecture,1
-The Department of Romance and Germanic Languages and Translation,1
-The Department of English Philology,1
-Department of Foodstuff Expertise,1
-Department of Non-Destructive Testing Instruments and Systems,1
-Symphony Solutions NV,1
-Institute of Telecommunications and Global Information Space of the NASU,1
-M. S. Bokarius Kharkiv Research Institute of Forensic Examinations,1
-Lviv state university of Life Safety,1
-Department of ecological safety,1
-Department of Automation and Robotics Systems,1
-Faculty of Plant Protection,1
-Ternopil City Council,1
-Department of Radio Engeeniring and Cybersecurity,1
-Ltd IST-FORT,1
-Donbass State Engineering Academy (DSEA),1
-Kharkiv University of Technology,1
-Department of Automation and Computer Integrated Technologies,1
-Rivne State Humanitarian University,1
-Beketov National University of Urban Economy,1
-Department of Electric Drive,1
-Department of Mineral Mining at Great Depths,1
-Scientific Secretary of the Institute of Geotechnical Mechanics named by N. Poljakov of National Academy of Sciences of Ukraine,1
-Israeli Oncologic Hospital LISOD,1
-Donetsk Institute for Physics and Engineering Named after O.O. Galkin,1
-Department of Constitutional,1
-Department of Civil Law Vasyl Stefanyk Precarpathian National University,1
-State Institution "O. S. Kolomiychenko Institute of Otolaryngology,1
-Science Department of EOS Data Analytics,1
-Department of Information Technology and Systems,1
-Oleh Honchar Dnipro National University,1
-I. Gorbachevsky Ternopil National Medical University,1
-D.K. Zabolotny Institute of Microbiology and Virology,1
-Odessa Mechnikov National University,1
-National University of Water,1
-RD Department,1
-Department of Approximation Theory,1
-Lutsk Human Development Institute,1
-Dnipropetrovsk Regional Ophthalmological Clinical Hospital,1
-Department of Constraction,1
-Department of General and Structural Geology,1
-Yuriy Fedkovych Chernovtsy National University,1
-Paton Electric Welding Institute " NAS of Ukraine,1
-Space Research and Technologies Institute " BAS,1
-Institute of Metal Science,1
-Institute of Mechanics " BAS,1
-false  Named after Zhukovskiy,1
-R&D Departement,1
-Karazin National University,1
-Air Force Research Center,1
-National Forestry Engineering University of Ukraine,1
-General and Clinical Immunology and Allergology Department,1
-Health Innovations,1
-Military Academy,1
-Shpyuk Medical Academy,1
-Main Military Clinical Hospital,1
-Computer and Information Technologies Department,1
-Igor" Sikorski? Kiev Polytechnic Institute,1
-Samsung RD Institute Ukraine (SRK),1
-Department of the rolling stock and track,1
-Vasyl' Stefanyk Precarpathian National University,1
-Ganzfried Research,1
-Kharkov University,1
-Department of Pedagogy and Psychology of Educational Activities Zaporizhzhia National University,1
-Novokramatorsky Mashinostroitelny Zavod Private Joint Stock Company,1
-Lviv Polytechnic NationalUniversity,1
-Ivan Franko Lviv National Universit,1
-Stepan Gzytsky Lviv National University of Veterinary Medicine and Biotechnologies,1
-Karpenko Physico-Mechanical Institute of the National,1
-Taras Shevchenko National University in Starobilsk,1
-Advaned Technologies,1
-Kharkiv,1
-Vinnytsia State Pedagogical,1
-Odessa Medical Institute,1
-Vinnitsa Natl. Tech.,1
-Artem V. Lyashenkoc,1
-Department of English Language,1
-Department of Theory and Practice of Translation,1
-Department of Automation,1
