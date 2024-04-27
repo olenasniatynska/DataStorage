@@ -1,0 +1,59 @@
+decline_code,error_description
+5.05,Merchant is not activated yet
+2.01,Invalid Data
+3.09,3D-Secure authentication required
+2.05,Order not found
+7.05,Apple online payment error
+4.08,AVS mismatch
+5.10,Processor does not support requested API method
+4.07,Trusted antifraud system
+3.08,Do not honor
+3.01,Card is blocked
+4.09,Solid antifraud engine
+3.12,"The customer has blocked transactions via this card for reasons that require clarification.	Kindly ask the user why they have blocked transactions. If the customer did not initiate this action, please ask the customer to contact their card issuer for more information."
+5.04,Merchant is not configured correctly
+2.14,Subscription Error
+2.10,Invalid 3DS flow on the merchant side
+4.01,Card is in a black list
+2.13,Invalid IP
+1.01,Authentication failed
+5.08,Invalid transaction
+5.11,Invalid routing
+7.04,3DS cascade to 2D
+2.02,Invalid Amount
+3.02,Insufficient funds
+2.12,Invalid 3DS flow
+2.03,Invalid Currency
+3.07,Card brand is not supported
+2.07,Request Is empty
+0.03,Illegal operation (violation of law)
+6.01,Unknown decline code
+3.05,Call your bank
+7.02,Google payment error
+5.03,Application error
+0.01,General decline
+5.02,Invalid Card Token
+7.03,Smart cascade decline
+4.02,Stolen card
+2.16,Subscription is locked
+4.03,Restricted card
+5.01,3D secure verification failed
+2.06,Invalid CVV2 code
+7.06,Token generation error
+3.10,Suspected fraud
+0.02,Order expired
+2.11,Invalid 3DS flow on the bank side
+7.01,Card token not found
+4.06,Blocked by Country/IP
+5.09,Merchant not found
+3.03,Payment amount limit excess
+4.05,PSP fraud
+4.04,Lost card
+5.07,Exceeded API calls limits
+3.06,Debit card not supported
+6.02,Connection error
+2.15,SCA require 3D authentication
+2.08,Invalid card number
+5.06,Duplicate order
+3.04,The transaction is declined by the issuer
+2.09,Invalid expiration date
